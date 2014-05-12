@@ -1,3 +1,4 @@
+*~
 .*
 !/.gitignore
 !/.travis.yml
@@ -33,3 +34,4 @@ project/plugins/project/
 
 ### Java ###
 *.jar
+!lib/*.jar
