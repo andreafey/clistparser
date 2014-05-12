@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.703609, 
+            "Longitude": -73.896085, 
+            "PostedDate": "1399499488", 
+            "PostingID": "4459436632", 
+            "PostingTitle": "Awesome May/June Sublet ", 
+            "PostingURL": "/brk/sub/4459436632.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00c0c_6wAC35vjyxZ_50x50c.jpg", 
+            "Latitude": 40.703609, 
+            "Longitude": -73.896085, 
+            "PostedDate": "1399297568", 
+            "PostingID": "4455086463", 
+            "PostingTitle": "MAY 6-MAY 30 FULLY FURNISHED 1 BR in 3BR Apartment off L/M STOP $950", 
+            "PostingURL": "/brk/sub/4455086463.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00z0z_74tW6LxWOq3_50x50c.jpg", 
+            "Latitude": 40.703609, 
+            "Longitude": -73.896085, 
+            "PostedDate": "1399255380", 
+            "PostingID": "4454661619", 
+            "PostingTitle": "MAY 6-MAY 30 1 BR in 3BR Apartment off L/M in Bushwick, $950 ", 
+            "PostingURL": "/brk/sub/4454661619.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_8TGhMYiLZT1_50x50c.jpg", 
+            "Latitude": 40.703609, 
+            "Longitude": -73.896085, 
+            "PostedDate": "1399239761", 
+            "PostingID": "4454320981", 
+            "PostingTitle": "1 bedroom", 
+            "PostingURL": "/brk/sub/4454320981.html"
+        }, 
+        {
+            "Ask": "2500", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00g0g_Htn6Kjwt38_50x50c.jpg", 
+            "Latitude": 40.703609, 
+            "Longitude": -73.896085, 
+            "PostedDate": "1399230060", 
+            "PostingID": "4454087560", 
+            "PostingTitle": "Brand new apt located a few blocks from the L train!", 
+            "PostingURL": "/brk/sub/4454087560.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7036093132581, 
+        "clng": -73.8960857074323, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "525", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_a2pUhmsmrz1_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.925306, 
+            "PostedDate": "1399628349", 
+            "PostingID": "4461632084", 
+            "PostingTitle": "Beautiful Bushwick Garden Apartment + studio Jefferson L", 
+            "PostingURL": "/brk/sub/4461632084.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_a2pUhmsmrz1_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.925306, 
+            "PostedDate": "1399451998", 
+            "PostingID": "4458344370", 
+            "PostingTitle": "Beautiful Garden Apartment", 
+            "PostingURL": "/brk/sub/4458344370.html"
+        }, 
+        {
+            "Ask": "700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_a2pUhmsmrz1_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.925306, 
+            "PostedDate": "1399356800", 
+            "PostingID": "4456601187", 
+            "PostingTitle": "Beautiful Bushwick Garden Apartment + studio", 
+            "PostingURL": "/brk/sub/4456601187.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7004580453851, 
+        "clng": -73.9253065549824, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

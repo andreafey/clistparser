@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399819726", 
+            "PostingID": "4458371519", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4458371519.html"
+        }, 
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399722957", 
+            "PostingID": "4463345113", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4463345113.html"
+        }, 
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399652731", 
+            "PostingID": "4420720255", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4420720255.html"
+        }, 
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399572212", 
+            "PostingID": "4450541058", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4450541058.html"
+        }, 
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399554437", 
+            "PostingID": "4455063933", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4455063933.html"
+        }, 
+        {
+            "Ask": "725", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_8Lq86sJCS2P_50x50c.jpg", 
+            "Latitude": 40.599732, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399221106", 
+            "PostingID": "4409310774", 
+            "PostingTitle": "Spacious room for rent in 2 bedroom apartment including all utilities", 
+            "PostingURL": "/brk/sub/4409310774.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.5997320650065, 
+        "clng": -73.9892486449155, 
+        "clustered": 0, 
+        "geocoded": 6, 
+        "zoom": 30
+    }
+]

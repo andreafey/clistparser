@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "850", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00J0J_ehf14jbfPnn_50x50c.jpg", 
+            "Latitude": 40.610847, 
+            "Longitude": -74.003859, 
+            "PostedDate": "1399755823", 
+            "PostingID": "4464170241", 
+            "PostingTitle": "Share in Huge 3BR Furnished Apt. - Students/Interns Welcome!", 
+            "PostingURL": "/brk/sub/4464170241.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00J0J_ehf14jbfPnn_50x50c.jpg", 
+            "Latitude": 40.610847, 
+            "Longitude": -74.003859, 
+            "PostedDate": "1399249053", 
+            "PostingID": "4454534556", 
+            "PostingTitle": "Share in Huge 3BR Furnished Apt. - J1 / Students/Interns Welcome!", 
+            "PostingURL": "/brk/sub/4454534556.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00J0J_ehf14jbfPnn_50x50c.jpg", 
+            "Latitude": 40.610847, 
+            "Longitude": -74.003859, 
+            "PostedDate": "1399234000", 
+            "PostingID": "4454179823", 
+            "PostingTitle": "Immediate -  Huge 3BR Furnished Apt. Share - Students/Interns Welcome!", 
+            "PostingURL": "/brk/sub/4454179823.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6108474462314, 
+        "clng": -74.0038590686906, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

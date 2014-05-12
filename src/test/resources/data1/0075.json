@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1850", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_l07lFVIfisw_50x50c.jpg", 
+            "Latitude": 40.716558, 
+            "Longitude": -73.959111, 
+            "PostedDate": "1399561449", 
+            "PostingID": "4460301354", 
+            "PostingTitle": "AWESOME FURNISHED BEDROOM AVAILABLE!!! GREAT LOCATION!!! LUXURIOUS!!!!", 
+            "PostingURL": "/brk/sub/4460301354.html"
+        }, 
+        {
+            "Ask": "1850", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_l07lFVIfisw_50x50c.jpg", 
+            "Latitude": 40.716558, 
+            "Longitude": -73.959111, 
+            "PostedDate": "1399561297", 
+            "PostingID": "4460300467", 
+            "PostingTitle": "AWESOME FURNISHED BEDROOM AVAILABLE!!! GREAT LOCATION!!! LUXURIOUS!!!!", 
+            "PostingURL": "/brk/sub/4460300467.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7165581594274, 
+        "clng": -73.9591110648933, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 32
+    }
+]

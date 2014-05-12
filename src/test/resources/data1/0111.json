@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "5", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_8EbIagfQugQ_50x50c.jpg", 
+            "Latitude": 40.692379, 
+            "Longitude": -73.959798, 
+            "PostedDate": "1399756674", 
+            "PostingID": "4464202105", 
+            "PostingTitle": "$1000 SUMMER SUBLET - BEAUTIFUL, SUNNY ROOM AVAILABLE 6/15", 
+            "PostingURL": "/brk/sub/4464202105.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "5", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_8EbIagfQugQ_50x50c.jpg", 
+            "Latitude": 40.692379, 
+            "Longitude": -73.959798, 
+            "PostedDate": "1399657799", 
+            "PostingID": "4462269302", 
+            "PostingTitle": "$1000 SUMMER SUBLET - BEAUTIFUL, SUNNY ROOM AVAILABLE 6/15", 
+            "PostingURL": "/brk/sub/4462269302.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "5", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00U0U_doYrtwguNHQ_50x50c.jpg", 
+            "Latitude": 40.692379, 
+            "Longitude": -73.959798, 
+            "PostedDate": "1399570765", 
+            "PostingID": "4460620502", 
+            "PostingTitle": "$1300/ Huge, Furnished, Summer Sublet w/ Washer/Dryer!", 
+            "PostingURL": "/brk/sub/4460620502.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_8vz7UwtHDIa_50x50c.jpg", 
+            "Latitude": 40.692092, 
+            "Longitude": -73.959741, 
+            "PostedDate": "1399412227", 
+            "PostingID": "4457699835", 
+            "PostingTitle": "Clinton Hill near Pratt/ Loft One bed [May 25th ~ end of July]", 
+            "PostingURL": "/brk/sub/4457699835.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "5", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00U0U_doYrtwguNHQ_50x50c.jpg", 
+            "Latitude": 40.692493, 
+            "Longitude": -73.959855, 
+            "PostedDate": "1399410517", 
+            "PostingID": "4457667981", 
+            "PostingTitle": "Huge, Furnished, Summer Sublet w/ Washer/Dryer!", 
+            "PostingURL": "/brk/sub/4457667981.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6923449630065, 
+        "clng": -73.9597986142474, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 21
+    }
+]

@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "2500", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_7wctd1REWw5_50x50c.jpg", 
+            "Latitude": 40.681092, 
+            "Longitude": -73.949714, 
+            "PostedDate": "1399664446", 
+            "PostingID": "4453647124", 
+            "PostingTitle": "Furnished awesome 3 bedroom garden apt with yard for sublet 6/22-7/31", 
+            "PostingURL": "/brk/sub/4453647124.html"
+        }, 
+        {
+            "Ask": "2600", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_gnWvSo7nOGZ_50x50c.jpg", 
+            "Latitude": 40.681092, 
+            "Longitude": -73.949714, 
+            "PostedDate": "1399389485", 
+            "PostingID": "4456956110", 
+            "PostingTitle": "MINT MODERN FULLY FURNISHED SUBLET GREAT BLOCK GREAT SHARE A&C TRAINS ", 
+            "PostingURL": "/brk/sub/4456956110.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6810920719107, 
+        "clng": -73.9497145570537, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

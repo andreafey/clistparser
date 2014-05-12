@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00O0O_lykLgdWiT3a_50x50c.jpg", 
+            "Latitude": 40.6949, 
+            "Longitude": -73.954699, 
+            "PostedDate": "1399842735", 
+            "PostingID": "4455283272", 
+            "PostingTitle": "Sch\u00f6nes Zimmer mit Dachterasse und drei Fenstern", 
+            "PostingURL": "/brk/sub/4455283272.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00O0O_lykLgdWiT3a_50x50c.jpg", 
+            "Latitude": 40.6949, 
+            "Longitude": -73.954699, 
+            "PostedDate": "1399842704", 
+            "PostingID": "4445778534", 
+            "PostingTitle": "Nice room in 2 Bedroom Apt with PRIVATE roof access", 
+            "PostingURL": "/brk/sub/4445778534.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6949003547726, 
+        "clng": -73.954699289871, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

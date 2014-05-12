@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_e7HzKJhVKBZ_50x50c.jpg", 
+            "Latitude": 40.619269, 
+            "Longitude": -74.032793, 
+            "PostedDate": "1399842745", 
+            "PostingID": "4448893067", 
+            "PostingTitle": "space available(June-august)", 
+            "PostingURL": "/brk/sub/4448893067.html"
+        }, 
+        {
+            "Ask": "700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_bgrRJ9VWy4B_50x50c.jpg", 
+            "Latitude": 40.619269, 
+            "Longitude": -74.032793, 
+            "PostedDate": "1399753531", 
+            "PostingID": "4446027391", 
+            "PostingTitle": "SPACE AVAILABLE (JUNE-AUGUST) ", 
+            "PostingURL": "/brk/sub/4446027391.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6192699258194, 
+        "clng": -74.0327934373432, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

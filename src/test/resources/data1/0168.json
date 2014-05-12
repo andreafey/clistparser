@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.694556, 
+            "Longitude": -73.949886, 
+            "PostedDate": "1399789833", 
+            "PostingID": "4464697750", 
+            "PostingTitle": "Room to Sublet w Amazing People!", 
+            "PostingURL": "/brk/sub/4464697750.html"
+        }, 
+        {
+            "Ask": "400", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_ayqkpOZRO0m_50x50c.jpg", 
+            "Latitude": 40.694613, 
+            "Longitude": -73.949084, 
+            "PostedDate": "1399230168", 
+            "PostingID": "4454059893", 
+            "PostingTitle": "Weekly Sublet 2 BR Yard Roof Basement Music Studio Laundry Myrtle G", 
+            "PostingURL": "/brk/sub/4454059893.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6945852279853, 
+        "clng": -73.9494853739356, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 20
+    }
+]

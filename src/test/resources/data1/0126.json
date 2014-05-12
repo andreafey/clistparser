@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00S0S_8UvCS345G08_50x50c.jpg", 
+            "Latitude": 40.662814, 
+            "Longitude": -73.954584, 
+            "PostedDate": "1399391546", 
+            "PostingID": "4457057173", 
+            "PostingTitle": "Sunny, Furnished Sublet available for June (possible extension)", 
+            "PostingURL": "/brk/sub/4457057173.html"
+        }, 
+        {
+            "Ask": "200", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.662814, 
+            "Longitude": -73.954584, 
+            "PostedDate": "1399381624", 
+            "PostingID": "4456776328", 
+            "PostingTitle": "$200 a week room for 2 people", 
+            "PostingURL": "/brk/sub/4456776328.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.662814718247, 
+        "clng": -73.954584698312, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00V0V_4yVYZFamKZQ_50x50c.jpg", 
+            "Latitude": 40.601107, 
+            "Longitude": -73.94748, 
+            "PostedDate": "1399829888", 
+            "PostingID": "4448956613", 
+            "PostingTitle": "Large room for 1 female sublet 5/19-6/7 $400  SAFE area", 
+            "PostingURL": "/brk/sub/4448956613.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601107, 
+            "Longitude": -73.94748, 
+            "PostedDate": "1399232492", 
+            "PostingID": "4454083799", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4454083799.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6011071637147, 
+        "clng": -73.9474800216528, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 32
+    }
+]

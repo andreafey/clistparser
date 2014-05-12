@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "850", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00r0r_7rVp6WNsHYT_50x50c.jpg", 
+            "Latitude": 40.693238, 
+            "Longitude": -73.972919, 
+            "PostedDate": "1399763850", 
+            "PostingID": "4464344858", 
+            "PostingTitle": "From 5/18 to 6/30, One Room in Lovely 3Br Apt Available!", 
+            "PostingURL": "/brk/sub/4464344858.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_4aPg6MgdNaK_50x50c.jpg", 
+            "Latitude": 40.693238, 
+            "Longitude": -73.972919, 
+            "PostedDate": "1399408639", 
+            "PostingID": "4457613102", 
+            "PostingTitle": "1 Br apt. in Ft. Greene, huge room!", 
+            "PostingURL": "/brk/sub/4457613102.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_boKBAWcmY7d_50x50c.jpg", 
+            "Latitude": 40.693238, 
+            "Longitude": -73.972919, 
+            "PostedDate": "1399396455", 
+            "PostingID": "4457183110", 
+            "PostingTitle": "Sunny 1BR in 3BR -Furnished", 
+            "PostingURL": "/brk/sub/4457183110.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6932387771668, 
+        "clng": -73.9729193477552, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

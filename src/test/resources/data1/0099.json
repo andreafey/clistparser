@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399653276", 
+            "PostingID": "4462121622", 
+            "PostingTitle": "LG Wburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4462121622.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399610073", 
+            "PostingID": "4461537692", 
+            "PostingTitle": "LG Wburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4461537692.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399571395", 
+            "PostingID": "4460640748", 
+            "PostingTitle": "LG Wburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4460640748.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399522678", 
+            "PostingID": "4459910522", 
+            "PostingTitle": "LG Wburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4459910522.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399484063", 
+            "PostingID": "4458962646", 
+            "PostingTitle": "LG Wburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4458962646.html"
+        }, 
+        {
+            "Ask": "1380", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_2g46EGE8hYy_50x50c.jpg", 
+            "Latitude": 40.707963, 
+            "Longitude": -73.9445, 
+            "PostedDate": "1399479697", 
+            "PostingID": "4447536036", 
+            "PostingTitle": "Room for rent- June 1st-Aug. 31st **Great for college students! ", 
+            "PostingURL": "/brk/sub/4447536036.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399437466", 
+            "PostingID": "4458238984", 
+            "PostingTitle": "LG Williamsburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4458238984.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399412622", 
+            "PostingID": "4457727600", 
+            "PostingTitle": "LG Wburg Sublet NOW $1400", 
+            "PostingURL": "/brk/sub/4457727600.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399348834", 
+            "PostingID": "4456518330", 
+            "PostingTitle": "LG Williamsburg Studio NOW $1400", 
+            "PostingURL": "/brk/sub/4456518330.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.707161, 
+            "Longitude": -73.944901, 
+            "PostedDate": "1399263534", 
+            "PostingID": "4454804256", 
+            "PostingTitle": "Lg Williamsburg Studio $1400 NOW", 
+            "PostingURL": "/brk/sub/4454804256.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.707241865679, 
+        "clng": -73.9448616045292, 
+        "clustered": 0, 
+        "geocoded": 10, 
+        "zoom": 23
+    }
+]

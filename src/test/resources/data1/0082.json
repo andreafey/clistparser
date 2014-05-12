@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "1050", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_ahvlJ2h0TFH_50x50c.jpg", 
+            "Latitude": 40.67244, 
+            "Longitude": -73.957334, 
+            "PostedDate": "1399863023", 
+            "PostingID": "4465737208", 
+            "PostingTitle": "! P E R F E C T       S U M M E R      S U B L E T ! ", 
+            "PostingURL": "/brk/sub/4465737208.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00F0F_6YAQYyqDcXC_50x50c.jpg", 
+            "Latitude": 40.672669, 
+            "Longitude": -73.95722, 
+            "PostedDate": "1399692351", 
+            "PostingID": "4463113042", 
+            "PostingTitle": "GREAT 1 BR FURNISHED IN 3BR ON FRANKLIN AVE -PRIME LOCATION! Avail 6/1", 
+            "PostingURL": "/brk/sub/4463113042.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_kcobVOteKfO_50x50c.jpg", 
+            "Latitude": 40.672325, 
+            "Longitude": -73.957392, 
+            "PostedDate": "1399658806", 
+            "PostingID": "4462301609", 
+            "PostingTitle": "2 bedrooms available in awesome 4bdr/2 bath duplex", 
+            "PostingURL": "/brk/sub/4462301609.html"
+        }, 
+        {
+            "Ask": "2800", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_e8fTi730xrW_50x50c.jpg", 
+            "Latitude": 40.672153, 
+            "Longitude": -73.957392, 
+            "PostedDate": "1399523478", 
+            "PostingID": "4459916874", 
+            "PostingTitle": "3 Bedroom Summer Sublet", 
+            "PostingURL": "/brk/sub/4459916874.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6723974373701, 
+        "clng": -73.9573348957285, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 21
+    }
+]

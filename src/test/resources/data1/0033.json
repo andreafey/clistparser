@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_6rPJKa0u3ib_50x50c.jpg", 
+            "Latitude": 40.720626, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399747187", 
+            "PostingID": "4460159400", 
+            "PostingTitle": "Furnished Room in Flat Share Available ", 
+            "PostingURL": "/brk/sub/4460159400.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_6rPJKa0u3ib_50x50c.jpg", 
+            "Latitude": 40.720626, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399645520", 
+            "PostingID": "4461857279", 
+            "PostingTitle": "Furnished Room in Flat Share Available ", 
+            "PostingURL": "/brk/sub/4461857279.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_6rPJKa0u3ib_50x50c.jpg", 
+            "Latitude": 40.720626, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399571073", 
+            "PostingID": "4460607226", 
+            "PostingTitle": "Furnished Room in Flat Share Available ", 
+            "PostingURL": "/brk/sub/4460607226.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7206261597726, 
+        "clng": -73.9592256564523, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

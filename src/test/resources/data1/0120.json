@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "5000", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01111_lpafb03YluS_50x50c.jpg", 
+            "Latitude": 40.681493, 
+            "Longitude": -73.974237, 
+            "PostedDate": "1399644046", 
+            "PostingID": "4461752826", 
+            "PostingTitle": "Groovy 2 BR Condo Fully Furnished w/Doorman, Gym & Roofdeck", 
+            "PostingURL": "/brk/sub/4461752826.html"
+        }, 
+        {
+            "Ask": "5000", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_ixMTkBHjfDA_50x50c.jpg", 
+            "Latitude": 40.681493, 
+            "Longitude": -73.974237, 
+            "PostedDate": "1399572871", 
+            "PostingID": "4460510478", 
+            "PostingTitle": "Groovy 2 BR Condo Fully Furnished w/Doorman, Gym & Roofdeck", 
+            "PostingURL": "/brk/sub/4460510478.html"
+        }, 
+        {
+            "Ask": "5000", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00U0U_4AoB6Gz4bIi_50x50c.jpg", 
+            "Latitude": 40.681493, 
+            "Longitude": -73.974237, 
+            "PostedDate": "1399477586", 
+            "PostingID": "4458668739", 
+            "PostingTitle": "Groovy 2 BR Condo Fully Furnished w/Doorman, Gym & Roofdeck", 
+            "PostingURL": "/brk/sub/4458668739.html"
+        }, 
+        {
+            "Ask": "3400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_aRHerw7Lho1_50x50c.jpg", 
+            "Latitude": 40.681493, 
+            "Longitude": -73.974237, 
+            "PostedDate": "1399390201", 
+            "PostingID": "4451001976", 
+            "PostingTitle": "NO FEE LUXURY LOFT (14FT CEILINGS) DOORMAN, GYM, 20,000 FT TERRACE!", 
+            "PostingURL": "/brk/sub/4451001976.html"
+        }, 
+        {
+            "Ask": "5000", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01111_lpafb03YluS_50x50c.jpg", 
+            "Latitude": 40.681493, 
+            "Longitude": -73.974237, 
+            "PostedDate": "1399304160", 
+            "PostingID": "4455147047", 
+            "PostingTitle": "Groovy 2 BR Condo Fully Furnished w/Doorman, Gym & Roofdeck", 
+            "PostingURL": "/brk/sub/4455147047.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6814931423673, 
+        "clng": -73.9742371506839, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 32
+    }
+]

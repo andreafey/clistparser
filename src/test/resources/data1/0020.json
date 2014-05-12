@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "2850", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00808_aDjITRiNwiw_50x50c.jpg", 
+            "Latitude": 40.674789, 
+            "Longitude": -73.978362, 
+            "PostedDate": "1399816742", 
+            "PostingID": "4441017357", 
+            "PostingTitle": "BEAUTIFUL SUNNY FURNISHED BROWNSTONE APT.  JUNE 2 - JULY 15", 
+            "PostingURL": "/brk/sub/4441017357.html"
+        }, 
+        {
+            "Ask": "2850", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00808_aDjITRiNwiw_50x50c.jpg", 
+            "Latitude": 40.674789, 
+            "Longitude": -73.978362, 
+            "PostedDate": "1399733388", 
+            "PostingID": "4442532397", 
+            "PostingTitle": "BEAUTIFUL SUNNY FURNISHED BROWNSTONE APT.  JUNE 2 - JULY 15", 
+            "PostingURL": "/brk/sub/4442532397.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6747895361646, 
+        "clng": -73.9783624468087, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

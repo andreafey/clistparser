@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "2400", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00303_cOXhWaYku75_50x50c.jpg", 
+            "Latitude": 40.702176, 
+            "Longitude": -73.944099, 
+            "PostedDate": "1399651395", 
+            "PostingID": "4462045123", 
+            "PostingTitle": "HUGE Loft Available June 1", 
+            "PostingURL": "/brk/sub/4462045123.html"
+        }, 
+        {
+            "Ask": "2400", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00303_cOXhWaYku75_50x50c.jpg", 
+            "Latitude": 40.70252, 
+            "Longitude": -73.944214, 
+            "PostedDate": "1399557468", 
+            "PostingID": "4460205616", 
+            "PostingTitle": "2bd/1br Huge Loft 15 Min from Manhattan Summer Sublet", 
+            "PostingURL": "/brk/sub/4460205616.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7023488061089, 
+        "clng": -73.9441568664412, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

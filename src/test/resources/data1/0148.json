@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "Ask": "690", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399745895", 
+            "PostingID": "4463842228", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4463842228.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399560581", 
+            "PostingID": "4460244424", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4460244424.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399499494", 
+            "PostingID": "4459370912", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4459370912.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399409146", 
+            "PostingID": "4457608645", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4457608645.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399335684", 
+            "PostingID": "4456220064", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment", 
+            "PostingURL": "/brk/sub/4456220064.html"
+        }, 
+        {
+            "Ask": "690", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_7kTEZ2ow7Pr_50x50c.jpg", 
+            "Latitude": 40.601622, 
+            "Longitude": -73.951834, 
+            "PostedDate": "1399308090", 
+            "PostingID": "4455366066", 
+            "PostingTitle": "Room for rent in 1 bedroom apartment ", 
+            "PostingURL": "/brk/sub/4455366066.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6016228257303, 
+        "clng": -73.9518345008955, 
+        "clustered": 0, 
+        "geocoded": 6, 
+        "zoom": 29
+    }
+]

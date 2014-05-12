@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00S0S_eK3CyMLRDkl_50x50c.jpg", 
+            "Latitude": 40.711458, 
+            "Longitude": -73.945589, 
+            "PostedDate": "1399378379", 
+            "PostingID": "4456731499", 
+            "PostingTitle": "No Security, Fully Furnished, Utils Included in Spacious Room", 
+            "PostingURL": "/brk/sub/4456731499.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00P0P_gXXpLcEuusP_50x50c.jpg", 
+            "Latitude": 40.711458, 
+            "Longitude": -73.945589, 
+            "PostedDate": "1399294108", 
+            "PostingID": "4455030875", 
+            "PostingTitle": "Fully Furnished Spacious Room in Huge BKLYN Apt. **Utils Included**", 
+            "PostingURL": "/brk/sub/4455030875.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.711458835051, 
+        "clng": -73.9455892609289, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

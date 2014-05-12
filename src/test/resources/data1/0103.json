@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "4500", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_ku8KMGcBFBj_50x50c.jpg", 
+            "Latitude": 40.685274, 
+            "Longitude": -73.986727, 
+            "PostedDate": "1399474408", 
+            "PostingID": "4458555077", 
+            "PostingTitle": "Summer Townhouse Rental!  Elegant & Open w/ Terrace - (Bergen F/G)", 
+            "PostingURL": "/brk/sub/4458555077.html"
+        }, 
+        {
+            "Ask": "4500", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_ku8KMGcBFBj_50x50c.jpg", 
+            "Latitude": 40.685274, 
+            "Longitude": -73.986727, 
+            "PostedDate": "1399473599", 
+            "PostingID": "4458554319", 
+            "PostingTitle": "Summer Townhouse Rental!  Elegant & Open w/ Terrace - (Bergen F/G)", 
+            "PostingURL": "/brk/sub/4458554319.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6852746638149, 
+        "clng": -73.9867276306171, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

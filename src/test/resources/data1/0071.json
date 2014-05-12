@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "1250", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.697421, 
+            "Longitude": -73.993259, 
+            "PostedDate": "1399646618", 
+            "PostingID": "4461912537", 
+            "PostingTitle": "Brooklyn Heights Room June 2 until June 20th", 
+            "PostingURL": "/brk/sub/4461912537.html"
+        }, 
+        {
+            "Ask": "1250", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.697306, 
+            "Longitude": -73.993259, 
+            "PostedDate": "1399563498", 
+            "PostingID": "4460388885", 
+            "PostingTitle": "June 2nd until June 20th - Brooklyn Heights", 
+            "PostingURL": "/brk/sub/4460388885.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6973640732915, 
+        "clng": -73.9932593494813, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

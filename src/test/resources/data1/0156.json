@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "2500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_6c7xNSozmhD_50x50c.jpg", 
+            "Latitude": 40.707505, 
+            "Longitude": -73.914764, 
+            "PostedDate": "1399478426", 
+            "PostingID": "4458731409", 
+            "PostingTitle": "Beautiful furnished 2BR apartment available ", 
+            "PostingURL": "/brk/sub/4458731409.html"
+        }, 
+        {
+            "Ask": "2400", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00W0W_3FfJVWDOpto_50x50c.jpg", 
+            "Latitude": 40.707505, 
+            "Longitude": -73.914764, 
+            "PostedDate": "1399301731", 
+            "PostingID": "4455171594", 
+            "PostingTitle": "Beautiful furnished 2BR apartment available (15 min to Union Square)", 
+            "PostingURL": "/brk/sub/4455171594.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7075054262648, 
+        "clng": -73.9147641315526, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

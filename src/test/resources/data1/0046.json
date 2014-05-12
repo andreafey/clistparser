@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_c7spZrVJRcs_50x50c.jpg", 
+            "Latitude": 40.635942, 
+            "Longitude": -73.952235, 
+            "PostedDate": "1399668787", 
+            "PostingID": "4416952575", 
+            "PostingTitle": "Overflow student housing available only for Fall 2014", 
+            "PostingURL": "/brk/sub/4416952575.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_c7spZrVJRcs_50x50c.jpg", 
+            "Latitude": 40.635942, 
+            "Longitude": -73.952235, 
+            "PostedDate": "1399643315", 
+            "PostingID": "4461794335", 
+            "PostingTitle": "Short-term, furnished housing for medical students available", 
+            "PostingURL": "/brk/sub/4461794335.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_c7spZrVJRcs_50x50c.jpg", 
+            "Latitude": 40.635942, 
+            "Longitude": -73.952235, 
+            "PostedDate": "1399564632", 
+            "PostingID": "4460388817", 
+            "PostingTitle": "Short-term, furnished housing for medical students available", 
+            "PostingURL": "/brk/sub/4460388817.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_c7spZrVJRcs_50x50c.jpg", 
+            "Latitude": 40.635942, 
+            "Longitude": -73.952235, 
+            "PostedDate": "1399563260", 
+            "PostingID": "4460293174", 
+            "PostingTitle": "Taking groups for Summer 2014 at Brooklyn College", 
+            "PostingURL": "/brk/sub/4460293174.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6359429976568, 
+        "clng": -73.9522355713521, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 29
+    }
+]

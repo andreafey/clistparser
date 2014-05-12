@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "10002000", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01111_S2pGQ2H5sJ_50x50c.jpg", 
+            "Latitude": 40.688024, 
+            "Longitude": -73.985581, 
+            "PostedDate": "1399725866", 
+            "PostingID": "4463384348", 
+            "PostingTitle": "July Studio Sublet ", 
+            "PostingURL": "/brk/sub/4463384348.html"
+        }, 
+        {
+            "Ask": "2995", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00101_ba6sO5KY7y4_50x50c.jpg", 
+            "Latitude": 40.688597, 
+            "Longitude": -73.985123, 
+            "PostedDate": "1399304933", 
+            "PostingID": "4455305606", 
+            "PostingTitle": "Spacious, Modern 1 BR 1 Bath for Sublease or Rent - July, Aug, & Sept", 
+            "PostingURL": "/brk/sub/4455305606.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.688311340129, 
+        "clng": -73.9853525319089, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

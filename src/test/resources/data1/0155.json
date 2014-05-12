@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1250", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00S0S_iKmhENl43jR_50x50c.jpg", 
+            "Latitude": 40.698051, 
+            "Longitude": -73.936479, 
+            "PostedDate": "1399484111", 
+            "PostingID": "4443178559", 
+            "PostingTitle": "Great spot/Gym/yoga studio/band rehearsal space ", 
+            "PostingURL": "/brk/sub/4443178559.html"
+        }, 
+        {
+            "Ask": "1250", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00S0S_iKmhENl43jR_50x50c.jpg", 
+            "Latitude": 40.698509, 
+            "Longitude": -73.936078, 
+            "PostedDate": "1399302493", 
+            "PostingID": "4437878665", 
+            "PostingTitle": "Cool Clean Spot ", 
+            "PostingURL": "/brk/sub/4437878665.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6982808057637, 
+        "clng": -73.9362786967586, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

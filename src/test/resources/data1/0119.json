@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1330", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_1M5oN93y9Br_50x50c.jpg", 
+            "Latitude": 40.673987, 
+            "Longitude": -73.980367, 
+            "PostedDate": "1399773258", 
+            "PostingID": "4454688020", 
+            "PostingTitle": "GREAT 1BR -SHARE ENTIRE BROWNSTONE - min.from Prospect Park!", 
+            "PostingURL": "/brk/sub/4454688020.html"
+        }, 
+        {
+            "Ask": "1330", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_1M5oN93y9Br_50x50c.jpg", 
+            "Latitude": 40.673987, 
+            "Longitude": -73.980367, 
+            "PostedDate": "1399392303", 
+            "PostingID": "4450164706", 
+            "PostingTitle": "SHARE ENTIRE BROWNSTONE w Garden- nice, LIGHT BR ", 
+            "PostingURL": "/brk/sub/4450164706.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6739873952515, 
+        "clng": -73.9803677990915, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01313_jImZmNykQTJ_50x50c.jpg", 
+            "Latitude": 40.673987, 
+            "Longitude": -73.956131, 
+            "PostedDate": "1399475257", 
+            "PostingID": "4458600346", 
+            "PostingTitle": "1 furnished room for June and July sublet (1100/mo) 5mins from 2/3/4/5", 
+            "PostingURL": "/brk/sub/4458600346.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01313_6f2scKx4WIX_50x50c.jpg", 
+            "Latitude": 40.674159, 
+            "Longitude": -73.956761, 
+            "PostedDate": "1399303503", 
+            "PostingID": "4455276374", 
+            "PostingTitle": "Spend the Summer in Brooklyn! HUGE sublet!", 
+            "PostingURL": "/brk/sub/4455276374.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01313_6f2scKx4WIX_50x50c.jpg", 
+            "Latitude": 40.674159, 
+            "Longitude": -73.956761, 
+            "PostedDate": "1399215544", 
+            "PostingID": "4453712573", 
+            "PostingTitle": "HUGE Summer Sublet - great for a couple!", 
+            "PostingURL": "/brk/sub/4453712573.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6741019868105, 
+        "clng": -73.9565518534085, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 20
+    }
+]

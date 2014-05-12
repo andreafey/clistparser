@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00l0l_cz5Kc7nVBvy_50x50c.jpg", 
+            "Latitude": 40.617894, 
+            "Longitude": -73.985581, 
+            "PostedDate": "1399835648", 
+            "PostingID": "4449313668", 
+            "PostingTitle": "BRAND NEW $800ROOM in SAFE & CONVENIENT neighborhood!!", 
+            "PostingURL": "/brk/sub/4449313668.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_pLIwB0KuN9_50x50c.jpg", 
+            "Latitude": 40.617894, 
+            "Longitude": -73.985581, 
+            "PostedDate": "1399590309", 
+            "PostingID": "4444496136", 
+            "PostingTitle": "Summer Sublet Private BR in Brooklyn ", 
+            "PostingURL": "/brk/sub/4444496136.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6178948271112, 
+        "clng": -73.9855817150269, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

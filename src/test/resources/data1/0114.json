@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.668945, 
+            "Longitude": -73.9339, 
+            "PostedDate": "1399655448", 
+            "PostingID": "4462067486", 
+            "PostingTitle": "Furnished room for a Medical Student/Intern....", 
+            "PostingURL": "/brk/sub/4462067486.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.668945, 
+            "Longitude": -73.9339, 
+            "PostedDate": "1399570342", 
+            "PostingID": "4460581628", 
+            "PostingTitle": "Furnished room near Kingsbrook Medical Center....", 
+            "PostingURL": "/brk/sub/4460581628.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.668945, 
+            "Longitude": -73.9339, 
+            "PostedDate": "1399403817", 
+            "PostingID": "4457404313", 
+            "PostingTitle": "Nicely furnished room near Kingsbrook Medical Center...", 
+            "PostingURL": "/brk/sub/4457404313.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.668945, 
+            "Longitude": -73.9339, 
+            "PostedDate": "1399403435", 
+            "PostingID": "4457431208", 
+            "PostingTitle": "Nice furnished room for SUBLET..(3 months & UP)", 
+            "PostingURL": "/brk/sub/4457431208.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6689453666546, 
+        "clng": -73.9339009219089, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 29
+    }
+]

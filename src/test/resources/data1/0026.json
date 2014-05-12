@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1575", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_6V1pJ38xyoO_50x50c.jpg", 
+            "Latitude": 40.705213, 
+            "Longitude": -73.930233, 
+            "PostedDate": "1399847915", 
+            "PostingID": "4454491076", 
+            "PostingTitle": "Small Studio for July 1 MORGAN AV L train - Artist Bldg w/ Rooftop", 
+            "PostingURL": "/brk/sub/4454491076.html"
+        }, 
+        {
+            "Ask": "2075", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_aaftTKobNh8_50x50c.jpg", 
+            "Latitude": 40.705213, 
+            "Longitude": -73.930233, 
+            "PostedDate": "1399762532", 
+            "PostingID": "4438923391", 
+            "PostingTitle": "Immediate Occupancy Studio in Arts Bldg w/ Rooftop FiOS Lndry Morgan L", 
+            "PostingURL": "/brk/sub/4438923391.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7052135950844, 
+        "clng": -73.9302339920202, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

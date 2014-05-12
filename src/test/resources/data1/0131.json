@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "150", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.978648, 
+            "PostedDate": "1399478260", 
+            "PostingID": "4458769690", 
+            "PostingTitle": "Spacious 2BR Loft Available May 23-26, July 3-6 or July 27-Aug 4 ONLY", 
+            "PostingURL": "/brk/sub/4458769690.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.978648, 
+            "PostedDate": "1399338272", 
+            "PostingID": "4456315452", 
+            "PostingTitle": "Spacious 2BR Loft Available 5/23-26, 7/3-6 or 7/27-8/4 ONLY", 
+            "PostingURL": "/brk/sub/4456315452.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6790294238483, 
+        "clng": -73.9786489257062, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

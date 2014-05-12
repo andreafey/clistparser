@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00505_9BCtBUUL73r_50x50c.jpg", 
+            "Latitude": 40.711057, 
+            "Longitude": -73.942094, 
+            "PostedDate": "1399839163", 
+            "PostingID": "4451387144", 
+            "PostingTitle": "1 room in a beautiful 2 bedroom apartment", 
+            "PostingURL": "/brk/sub/4451387144.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00C0C_90jScijpRIS_50x50c.jpg", 
+            "Latitude": 40.711917, 
+            "Longitude": -73.942266, 
+            "PostedDate": "1399324781", 
+            "PostingID": "4455949848", 
+            "PostingTitle": "Beautiful Private yard and large private room, one block from Grand L", 
+            "PostingURL": "/brk/sub/4455949848.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7114874829408, 
+        "clng": -73.9421801620481, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 20
+    }
+]

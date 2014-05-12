@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "2250", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_6TAHlpzf2aL_50x50c.jpg", 
+            "Latitude": 40.57498, 
+            "Longitude": -73.974523, 
+            "PostedDate": "1399760220", 
+            "PostingID": "4437925034", 
+            "PostingTitle": "FOR RENT  2BR CONDO. LARGE TERR. ALL UTIL INCLUDE", 
+            "PostingURL": "/brk/sub/4437925034.html"
+        }, 
+        {
+            "Ask": "2250", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_dl0m32pHYeZ_50x50c.jpg", 
+            "Latitude": 40.57498, 
+            "Longitude": -73.974523, 
+            "PostedDate": "1399760163", 
+            "PostingID": "4442706059", 
+            "PostingTitle": "FOR RENT 2BR CONDO.LARGE TERR. ALL UTIL INCLUDE, OCEAN VIEW+2 POOLS", 
+            "PostingURL": "/brk/sub/4442706059.html"
+        }, 
+        {
+            "Ask": "1550", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_dl0m32pHYeZ_50x50c.jpg", 
+            "Latitude": 40.57498, 
+            "Longitude": -73.974523, 
+            "PostedDate": "1399760089", 
+            "PostingID": "4444609635", 
+            "PostingTitle": "FOR RENT  1BR CONDO. LARGE TERR. ALL UTIL INCLUDE, OCEAN VIEW+2 POOL", 
+            "PostingURL": "/brk/sub/4444609635.html"
+        }, 
+        {
+            "Ask": "2300", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_dl0m32pHYeZ_50x50c.jpg", 
+            "Latitude": 40.57498, 
+            "Longitude": -73.974523, 
+            "PostedDate": "1399652421", 
+            "PostingID": "4447815724", 
+            "PostingTitle": "FOR RENT BEAUTIFUL 2 BR CONDO. LARGE TERRACE +OCEAN VIEW, POOL+PARKING", 
+            "PostingURL": "/brk/sub/4447815724.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.5749802882582, 
+        "clng": -73.9745236295815, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 30
+    }
+]

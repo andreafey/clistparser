@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "750", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00i0i_e64BDFt0pX6_50x50c.jpg", 
+            "Latitude": 40.645797, 
+            "Longitude": -73.924733, 
+            "PostedDate": "1399821471", 
+            "PostingID": "4436882888", 
+            "PostingTitle": "DOCTORS WELCOME-LARGE FURNISHED ROOM", 
+            "PostingURL": "/brk/sub/4436882888.html"
+        }, 
+        {
+            "Ask": "750", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00i0i_e64BDFt0pX6_50x50c.jpg", 
+            "Latitude": 40.645797, 
+            "Longitude": -73.924733, 
+            "PostedDate": "1399821454", 
+            "PostingID": "4439351104", 
+            "PostingTitle": "DOCTORS WELCOME-LARGE FURNISHED ROOM", 
+            "PostingURL": "/brk/sub/4439351104.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6457978717325, 
+        "clng": -73.9247335971873, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

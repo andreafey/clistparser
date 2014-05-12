@@ -1,0 +1,48 @@
+[
+    [
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_67QphWmnSab_50x50c.jpg", 
+            "Latitude": 40.70888, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399844610", 
+            "PostingID": "4465447608", 
+            "PostingTitle": "Sublet a room this summer in a true artist's loft. Available June 1", 
+            "PostingURL": "/brk/sub/4465447608.html"
+        }, 
+        {
+            "Ask": "1240", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.70888, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399762836", 
+            "PostingID": "4464287596", 
+            "PostingTitle": "Night Owl Bedroom, Fully Furnished", 
+            "PostingURL": "/brk/sub/4464287596.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_hpvJntnLoBK_50x50c.jpg", 
+            "Latitude": 40.70888, 
+            "Longitude": -73.959225, 
+            "PostedDate": "1399395287", 
+            "PostingID": "4457182009", 
+            "PostingTitle": "1bedroom available in 2bedroom apt in Williamsburg", 
+            "PostingURL": "/brk/sub/4457182009.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.708880524973, 
+        "clng": -73.9592256564523, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

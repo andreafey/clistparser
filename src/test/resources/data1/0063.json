@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.727215, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399831867", 
+            "PostingID": "4465088601", 
+            "PostingTitle": "Free rent for a submissive girl in need ", 
+            "PostingURL": "/brk/sub/4465088601.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Z0Z_7K2VNMIffEm_50x50c.jpg", 
+            "Latitude": 40.727215, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399738811", 
+            "PostingID": "4460278350", 
+            "PostingTitle": "3 month summer sublet in great Greenpoint location!", 
+            "PostingURL": "/brk/sub/4460278350.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.727215, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399691672", 
+            "PostingID": "4463034532", 
+            "PostingTitle": "Free rent for a submissive girl in need ", 
+            "PostingURL": "/brk/sub/4463034532.html"
+        }, 
+        {
+            "Ask": "1750", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_hacs0mihFEb_50x50c.jpg", 
+            "Latitude": 40.727215, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399581102", 
+            "PostingID": "4454161000", 
+            "PostingTitle": "Available May 15th 1br in a 2br duplex all utilities included!", 
+            "PostingURL": "/brk/sub/4454161000.html"
+        }, 
+        {
+            "Ask": "2400", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.727215, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399293969", 
+            "PostingID": "4455028378", 
+            "PostingTitle": "Beautiful brooklyn sublet mid july-mid august", 
+            "PostingURL": "/brk/sub/4455028378.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7272151744162, 
+        "clng": -73.9498291486127, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 31
+    }
+]

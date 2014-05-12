@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "2450", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_nDH2Itm36z_50x50c.jpg", 
+            "Latitude": 40.719308, 
+            "Longitude": -73.960314, 
+            "PostedDate": "1399579513", 
+            "PostingID": "4457434897", 
+            "PostingTitle": "WOW!! LUXURIOUS SHARED APT. RIGHT OFF THE DRIGGS!! PRIME LOCATION!!!!!", 
+            "PostingURL": "/brk/sub/4457434897.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.719537, 
+            "Longitude": -73.960428, 
+            "PostedDate": "1399304029", 
+            "PostingID": "4455293636", 
+            "PostingTitle": "Room for rent in adorable space", 
+            "PostingURL": "/brk/sub/4455293636.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7194229484029, 
+        "clng": -73.9603715720425, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

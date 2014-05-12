@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.672555, 
+            "Longitude": -73.95023, 
+            "PostedDate": "1399413757", 
+            "PostingID": "4457720832", 
+            "PostingTitle": "$950--1BR Sublet for June & July in GREAT apt", 
+            "PostingURL": "/brk/sub/4457720832.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_cLRQ59DVPyG_50x50c.jpg", 
+            "Latitude": 40.672555, 
+            "Longitude": -73.95023, 
+            "PostedDate": "1399335254", 
+            "PostingID": "4456237444", 
+            "PostingTitle": "July Brownstone Sublet in Crown Heights ", 
+            "PostingURL": "/brk/sub/4456237444.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6725550007637, 
+        "clng": -73.9502302190693, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 31
+    }
+]

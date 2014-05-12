@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "75", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00S0S_hlkFHdrr505_50x50c.jpg", 
+            "Latitude": 40.68728, 
+            "Longitude": -73.957392, 
+            "PostedDate": "1399849372", 
+            "PostingID": "4465534687", 
+            "PostingTitle": "Boutique Penthouse w/ Panoramic Views", 
+            "PostingURL": "/brk/sub/4465534687.html"
+        }, 
+        {
+            "Ask": "75", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_64YVwOI1TZs_50x50c.jpg", 
+            "Latitude": 40.687509, 
+            "Longitude": -73.957334, 
+            "PostedDate": "1399821680", 
+            "PostingID": "4464949461", 
+            "PostingTitle": "SHARED Brooklyn Penthouse - *NOW*", 
+            "PostingURL": "/brk/sub/4464949461.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6873946076568, 
+        "clng": -73.9573635436182, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

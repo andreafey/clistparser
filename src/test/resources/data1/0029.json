@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1500", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_fsX9zSSXwLC_50x50c.jpg", 
+            "Latitude": 40.680862, 
+            "Longitude": -73.977503, 
+            "PostedDate": "1399754340", 
+            "PostingID": "4452261993", 
+            "PostingTitle": "July/August Summer Sublet Studio Great Location", 
+            "PostingURL": "/brk/sub/4452261993.html"
+        }, 
+        {
+            "Ask": "1455", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00g0g_hG1kC3d5EvQ_50x50c.jpg", 
+            "Latitude": 40.680461, 
+            "Longitude": -73.977617, 
+            "PostedDate": "1399741435", 
+            "PostingID": "4463782310", 
+            "PostingTitle": "Charming Private Room for June 2014", 
+            "PostingURL": "/brk/sub/4463782310.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_absiOjYhti2_50x50c.jpg", 
+            "Latitude": 40.680977, 
+            "Longitude": -73.977388, 
+            "PostedDate": "1399730959", 
+            "PostingID": "4460194212", 
+            "PostingTitle": "June and July Sublet in sunny park slope bedroom! (furnished) ", 
+            "PostingURL": "/brk/sub/4460194212.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6807673958268, 
+        "clng": -73.977503010116, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 21
+    }
+]

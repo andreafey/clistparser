@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1195", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_fZ3JnDrHlIl_50x50c.jpg", 
+            "Latitude": 40.675133, 
+            "Longitude": -73.975039, 
+            "PostedDate": "1399655763", 
+            "PostingID": "4457505740", 
+            "PostingTitle": "ALL INCLUSIVE * Large Furnished PRIME LOCATION inNorth Park Slope", 
+            "PostingURL": "/brk/sub/4457505740.html"
+        }, 
+        {
+            "Ask": "2800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_2zUnjFVUaGZ_50x50c.jpg", 
+            "Latitude": 40.675992, 
+            "Longitude": -73.975497, 
+            "PostedDate": "1399651804", 
+            "PostingID": "4455148728", 
+            "PostingTitle": "July Sublet - HUGE 1 Bedroom", 
+            "PostingURL": "/brk/sub/4455148728.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.675563029188, 
+        "clng": -73.9752684747151, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 20
+    }
+]

@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.698223, 
+            "Longitude": -73.994978, 
+            "PostedDate": "1399396532", 
+            "PostingID": "4457145326", 
+            "PostingTitle": "June-Brooklyn Heights Room Available", 
+            "PostingURL": "/brk/sub/4457145326.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.698223, 
+            "Longitude": -73.994978, 
+            "PostedDate": "1399296550", 
+            "PostingID": "4445764256", 
+            "PostingTitle": "June 1- Furnished Brooklyn Heights Room Available", 
+            "PostingURL": "/brk/sub/4445764256.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6982235099842, 
+        "clng": -73.9949782228666, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

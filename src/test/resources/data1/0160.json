@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1030", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00D0D_eF0XAqOBysd_50x50c.jpg", 
+            "Latitude": 40.698968, 
+            "Longitude": -73.90806, 
+            "PostedDate": "1399641287", 
+            "PostingID": "4461773546", 
+            "PostingTitle": "Room for Sublease in Bushwick/Ridgewood 3 BR June 1st - Aug 31st ", 
+            "PostingURL": "/brk/sub/4461773546.html"
+        }, 
+        {
+            "Ask": "1030", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_djtDKsQRCYX_50x50c.jpg", 
+            "Latitude": 40.698968, 
+            "Longitude": -73.90806, 
+            "PostedDate": "1399548471", 
+            "PostingID": "4455204903", 
+            "PostingTitle": "Room for Sublease in Bushwick/Ridgewood 3 BR June 1st - Aug 31st ", 
+            "PostingURL": "/brk/sub/4455204903.html"
+        }, 
+        {
+            "Ask": "1030", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_djtDKsQRCYX_50x50c.jpg", 
+            "Latitude": 40.698968, 
+            "Longitude": -73.90806, 
+            "PostedDate": "1399262117", 
+            "PostingID": "4454778558", 
+            "PostingTitle": "Huge Room in Bushwick/Ridgewood 3 BR Apt June-Aug ", 
+            "PostingURL": "/brk/sub/4454778558.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6989683551178, 
+        "clng": -73.9080605253499, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

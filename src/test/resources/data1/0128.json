@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "887", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_9UfMkhXJ7T7_50x50c.jpg", 
+            "Latitude": 40.675477, 
+            "Longitude": -73.962835, 
+            "PostedDate": "1399471167", 
+            "PostingID": "4458506725", 
+            "PostingTitle": "Charming Sunny Apartment (Prospect Heights)", 
+            "PostingURL": "/brk/sub/4458506725.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_7FLv3yzhZvQ_50x50c.jpg", 
+            "Latitude": 40.675477, 
+            "Longitude": -73.96272, 
+            "PostedDate": "1399344759", 
+            "PostingID": "4456440304", 
+            "PostingTitle": "1BR in Renovated Apartment in Prospect Heights", 
+            "PostingURL": "/brk/sub/4456440304.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6754770855187, 
+        "clng": -73.9627779947819, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

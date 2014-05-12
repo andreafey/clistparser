@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_cYlXrskO2fi_50x50c.jpg", 
+            "Latitude": 40.707734, 
+            "Longitude": -73.946677, 
+            "PostedDate": "1399836201", 
+            "PostingID": "4461786229", 
+            "PostingTitle": "Furnished (or not) bright bedroom in giant 3BR loft ", 
+            "PostingURL": "/brk/sub/4461786229.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_2Bez1DdlZcI_50x50c.jpg", 
+            "Latitude": 40.707734, 
+            "Longitude": -73.946677, 
+            "PostedDate": "1399436979", 
+            "PostingID": "4452496742", 
+            "PostingTitle": "$875 - East Williamsburg Room for Rent May 13 - June 5", 
+            "PostingURL": "/brk/sub/4452496742.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_7TccveZNqGR_50x50c.jpg", 
+            "Latitude": 40.707047, 
+            "Longitude": -73.946276, 
+            "PostedDate": "1399314183", 
+            "PostingID": "4455643989", 
+            "PostingTitle": "Nice pleasant light furnished room in 2 bedroom apt for Summer! ", 
+            "PostingURL": "/brk/sub/4455643989.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7075054262648, 
+        "clng": -73.9465441905874, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 20
+    }
+]

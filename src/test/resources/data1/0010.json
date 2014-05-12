@@ -1,0 +1,132 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_ctmXW77MSyj_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399836930", 
+            "PostingID": "4440249311", 
+            "PostingTitle": "CHARMING 1BR in CARROLL GARDENS", 
+            "PostingURL": "/brk/sub/4440249311.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_3w2wzs87WXH_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399651227", 
+            "PostingID": "4461935023", 
+            "PostingTitle": "*NEED TO RENT TODAY BEST ROOM.FURNISHED 1100$ NXT TRAIN F/G ", 
+            "PostingURL": "/brk/sub/4461935023.html"
+        }, 
+        {
+            "Ask": "7900", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00404_kM1Lu39LLnL_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399643787", 
+            "PostingID": "4461836105", 
+            "PostingTitle": "Carroll Gardens 3 bed/2 bath Duplex - available June 15 for 3+months", 
+            "PostingURL": "/brk/sub/4461836105.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00L0L_ettzsc4UBYW_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399642427", 
+            "PostingID": "4461767731", 
+            "PostingTitle": " $950 **Need to rent this weekend!!1100 furnished best room next subws", 
+            "PostingURL": "/brk/sub/4461767731.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_cC0tyPMrNtr_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399636637", 
+            "PostingID": "4461691127", 
+            "PostingTitle": " **ASAP COMFORTABLE,FURNISHED&BEST LOCATION$900 NEXT F/G TRAIN ", 
+            "PostingURL": "/brk/sub/4461691127.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00101_h37f1J8S0r4_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399572397", 
+            "PostingID": "4460638366", 
+            "PostingTitle": " **ASAP!NEED TO RENT !LARGE,FURNISHED,TERRACE,NEXT SUBWAY $1100", 
+            "PostingURL": "/brk/sub/4460638366.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00L0L_ettzsc4UBYW_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399571327", 
+            "PostingID": "4460580511", 
+            "PostingTitle": "$950 **Need to rent this weekend!!950$ furnished best room next subwst", 
+            "PostingURL": "/brk/sub/4460580511.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_bzccPenXLzz_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399505766", 
+            "PostingID": "4459519823", 
+            "PostingTitle": "Need A Room?", 
+            "PostingURL": "/brk/sub/4459519823.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_4AlUnU7lej2_50x50c.jpg", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399500535", 
+            "PostingID": "4452723002", 
+            "PostingTitle": "CHARMING and UNIQUE 1BR in CARROLL GARDENS", 
+            "PostingURL": "/brk/sub/4452723002.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.679373, 
+            "Longitude": -74.001395, 
+            "PostedDate": "1399335423", 
+            "PostingID": "4456248644", 
+            "PostingTitle": "immediate until mid August or longer", 
+            "PostingURL": "/brk/sub/4456248644.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6793731985254, 
+        "clng": -74.0013953501717, 
+        "clustered": 0, 
+        "geocoded": 10, 
+        "zoom": 30
+    }
+]

@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_3TNoMg7izB6_50x50c.jpg", 
+            "Latitude": 40.68854, 
+            "Longitude": -73.993545, 
+            "PostedDate": "1399833525", 
+            "PostingID": "4460480138", 
+            "PostingTitle": "Cobble Hill garden,pet,start July 1,WiFi,Direct TV,w/d,flexLEASE,dW", 
+            "PostingURL": "/brk/sub/4460480138.html"
+        }, 
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_3TNoMg7izB6_50x50c.jpg", 
+            "Latitude": 40.688597, 
+            "Longitude": -73.993603, 
+            "PostedDate": "1399736146", 
+            "PostingID": "4458793251", 
+            "PostingTitle": "Cobble Hill garden,furnished,pet,start July 1,WiFi,TV,w/d,flexLEASE,dW", 
+            "PostingURL": "/brk/sub/4458793251.html"
+        }, 
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_3TNoMg7izB6_50x50c.jpg", 
+            "Latitude": 40.68854, 
+            "Longitude": -73.993545, 
+            "PostedDate": "1399646986", 
+            "PostingID": "4457111659", 
+            "PostingTitle": "Cobble Hill garden,furnished,pet,start July 1,WiFi,TV,w/d,flexLEASE,dW", 
+            "PostingURL": "/brk/sub/4457111659.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6885596218401, 
+        "clng": -73.993564926972, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 24
+    }
+]

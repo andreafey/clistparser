@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1200", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00505_4wwP6gyzwe8_50x50c.jpg", 
+            "Latitude": 40.700916, 
+            "Longitude": -73.926108, 
+            "PostedDate": "1399516380", 
+            "PostingID": "4459799671", 
+            "PostingTitle": "SUMMER SUBLET - available May 15 Beautiful apartment!", 
+            "PostingURL": "/brk/sub/4459799671.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_65rvX7GOtjC_50x50c.jpg", 
+            "Latitude": 40.700916, 
+            "Longitude": -73.926108, 
+            "PostedDate": "1399416369", 
+            "PostingID": "4457812204", 
+            "PostingTitle": "SUBLET June 1st in spacious brand new 4 bedroom", 
+            "PostingURL": "/brk/sub/4457812204.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_lrXy9HNddnm_50x50c.jpg", 
+            "Latitude": 40.700916, 
+            "Longitude": -73.926108, 
+            "PostedDate": "1399404400", 
+            "PostingID": "4457474031", 
+            "PostingTitle": "SUBLET- room available in huge very light beautiful apartment", 
+            "PostingURL": "/brk/sub/4457474031.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7009164116212, 
+        "clng": -73.9261086958956, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

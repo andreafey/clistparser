@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "225", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_ipoKuFeK2r9_50x50c.jpg", 
+            "Latitude": 40.728418, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399559559", 
+            "PostingID": "4460274290", 
+            "PostingTitle": "Brooklyn Photo Studio for Rent in Factory Loft!", 
+            "PostingURL": "/brk/sub/4460274290.html"
+        }, 
+        {
+            "Ask": "225", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_ipoKuFeK2r9_50x50c.jpg", 
+            "Latitude": 40.728418, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399559536", 
+            "PostingID": "4460273642", 
+            "PostingTitle": "Brooklyn Photo Studio for Rent in Factory Loft!", 
+            "PostingURL": "/brk/sub/4460273642.html"
+        }, 
+        {
+            "Ask": "225", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_ipoKuFeK2r9_50x50c.jpg", 
+            "Latitude": 40.728418, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399559499", 
+            "PostingID": "4460272703", 
+            "PostingTitle": "Brooklyn Photo Studio for Rent in Factory Loft!", 
+            "PostingURL": "/brk/sub/4460272703.html"
+        }, 
+        {
+            "Ask": "225", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_ipoKuFeK2r9_50x50c.jpg", 
+            "Latitude": 40.728418, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399559327", 
+            "PostingID": "4460268071", 
+            "PostingTitle": "Brooklyn Photo Studio for Rent in Factory Loft!", 
+            "PostingURL": "/brk/sub/4460268071.html"
+        }, 
+        {
+            "Ask": "225", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_ipoKuFeK2r9_50x50c.jpg", 
+            "Latitude": 40.728418, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399559296", 
+            "PostingID": "4460267282", 
+            "PostingTitle": "Brooklyn Photo Studio for Rent in Factory Loft!", 
+            "PostingURL": "/brk/sub/4460267282.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7284183857859, 
+        "clng": -73.9589964733343, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 30
+    }
+]

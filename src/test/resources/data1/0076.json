@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.653131, 
+            "Longitude": -73.972862, 
+            "PostedDate": "1399732355", 
+            "PostingID": "4463521442", 
+            "PostingTitle": "Summer Sublet on the park ", 
+            "PostingURL": "/brk/sub/4463521442.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.653131, 
+            "Longitude": -73.972862, 
+            "PostedDate": "1399567317", 
+            "PostingID": "4460509229", 
+            "PostingTitle": "Summer Sublet on the park ", 
+            "PostingURL": "/brk/sub/4460509229.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.653131, 
+            "Longitude": -73.972862, 
+            "PostedDate": "1399560537", 
+            "PostingID": "4448155832", 
+            "PostingTitle": "Summer Sublet on the park July and August", 
+            "PostingURL": "/brk/sub/4448155832.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6531317315098, 
+        "clng": -73.9728620519757, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

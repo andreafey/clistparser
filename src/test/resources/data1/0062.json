@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00V0V_dVAnImNSXeg_50x50c.jpg", 
+            "Latitude": 40.707677, 
+            "Longitude": -73.939515, 
+            "PostedDate": "1399750791", 
+            "PostingID": "4464052538", 
+            "PostingTitle": "June 1st SUBLET- 1 br in 3 br- L Montrose", 
+            "PostingURL": "/brk/sub/4464052538.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_kyi0roOFOe_50x50c.jpg", 
+            "Latitude": 40.707677, 
+            "Longitude": -73.939859, 
+            "PostedDate": "1399582083", 
+            "PostingID": "4460907554", 
+            "PostingTitle": "Furnished 1 Bedroom in 2 Bed Apt Util Included A/C TV JUNE/JULY", 
+            "PostingURL": "/brk/sub/4460907554.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7076773136033, 
+        "clng": -73.9396877956394, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

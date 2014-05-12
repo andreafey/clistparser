@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00W0W_dxaGCj6sccc_50x50c.jpg", 
+            "Latitude": 40.715125, 
+            "Longitude": -73.95636, 
+            "PostedDate": "1399657703", 
+            "PostingID": "4462239212", 
+            "PostingTitle": "*REAL WBURG (N5th by L at Bedford Ave) $60/night; 5/28-6/4", 
+            "PostingURL": "/brk/sub/4462239212.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_1aEkEmkgdMH_50x50c.jpg", 
+            "Latitude": 40.715412, 
+            "Longitude": -73.956819, 
+            "PostedDate": "1399319471", 
+            "PostingID": "4455813943", 
+            "PostingTitle": "FURNISHED PRIVATE ROOM FOR RENT ALL UTILITIES/WI-FI INCLUDED", 
+            "PostingURL": "/brk/sub/4455813943.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7152690043884, 
+        "clng": -73.9565900505949, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

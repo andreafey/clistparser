@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "65", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00U0U_cgA7jeEJJYZ_50x50c.jpg", 
+            "Latitude": 40.701661, 
+            "Longitude": -73.944042, 
+            "PostedDate": "1399848515", 
+            "PostingID": "4443005715", 
+            "PostingTitle": "Brooklyn Apartment for July 1-15th and open for other days $65 nightly", 
+            "PostingURL": "/brk/sub/4443005715.html"
+        }, 
+        {
+            "Ask": "55", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00U0U_cgA7jeEJJYZ_50x50c.jpg", 
+            "Latitude": 40.701661, 
+            "Longitude": -73.944042, 
+            "PostedDate": "1399467322", 
+            "PostingID": "4416033017", 
+            "PostingTitle": "1 bedroom Brooklyn Sublet, $55 nightly May 16th, open for June, July", 
+            "PostingURL": "/brk/sub/4416033017.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7016612567548, 
+        "clng": -73.9440422748822, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 31
+    }
+]

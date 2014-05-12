@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_1q5OkNTOAE0_50x50c.jpg", 
+            "Latitude": 40.667856, 
+            "Longitude": -73.988847, 
+            "PostedDate": "1399726666", 
+            "PostingID": "4463397656", 
+            "PostingTitle": "1 Room in 3 BR/2 BA Available June 1 (Park Slope) ", 
+            "PostingURL": "/brk/sub/4463397656.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_dm6VFyUBfAm_50x50c.jpg", 
+            "Latitude": 40.667742, 
+            "Longitude": -73.988904, 
+            "PostedDate": "1399580394", 
+            "PostingID": "4460915787", 
+            "PostingTitle": "1 Room in 3 BR/2 BA Available June 1", 
+            "PostingURL": "/brk/sub/4460915787.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6677994510644, 
+        "clng": -73.9888762223488, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "2200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_cFsE4daX2ys_50x50c.jpg", 
+            "Latitude": 40.671008, 
+            "Longitude": -73.98455, 
+            "PostedDate": "1399817685", 
+            "PostingID": "4453076672", 
+            "PostingTitle": "Sunny 1br sublet in central Park Slope! June-July(Park Slope)", 
+            "PostingURL": "/brk/sub/4453076672.html"
+        }, 
+        {
+            "Ask": "1250", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.671237, 
+            "Longitude": -73.984321, 
+            "PostedDate": "1399394195", 
+            "PostingID": "4457133281", 
+            "PostingTitle": "Sublet: Perfect for medical student or medical resident", 
+            "PostingURL": "/brk/sub/4457133281.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.671122606276, 
+        "clng": -73.9844357994367, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

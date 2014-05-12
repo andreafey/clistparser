@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "3400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Y0Y_2rRV1d5XmMz_50x50c.jpg", 
+            "Latitude": 40.713922, 
+            "Longitude": -73.961689, 
+            "PostedDate": "1399766650", 
+            "PostingID": "4460825723", 
+            "PostingTitle": "BOUTIQUE HOTEL LOOK A LIKE CONDO. FURNISHED On BEDFORD AVE", 
+            "PostingURL": "/brk/sub/4460825723.html"
+        }, 
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00N0N_bCyjflamkui_50x50c.jpg", 
+            "Latitude": 40.71375, 
+            "Longitude": -73.961231, 
+            "PostedDate": "1399405914", 
+            "PostingID": "4438713737", 
+            "PostingTitle": "Amazing Luxury Condo on Bedford Ave Furnished", 
+            "PostingURL": "/brk/sub/4438713737.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7138366099007, 
+        "clng": -73.9614601918532, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

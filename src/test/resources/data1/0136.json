@@ -1,0 +1,116 @@
+[
+    [
+        {
+            "Ask": "60", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_lDgbnwNXbjz_50x50c.jpg", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399729600", 
+            "PostingID": "4463394421", 
+            "PostingTitle": "Private room with private bath FURNISHED AVAILABLE FROM MONDAY", 
+            "PostingURL": "/brk/sub/4463394421.html"
+        }, 
+        {
+            "Ask": "45", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00101_1jp9IjCv9JL_50x50c.jpg", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399725891", 
+            "PostingID": "4463384744", 
+            "PostingTitle": "Fantastic Private room , well furnished , weekly or daily", 
+            "PostingURL": "/brk/sub/4463384744.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399672150", 
+            "PostingID": "4462598785", 
+            "PostingTitle": "Furnished room for SUBLET!!!!", 
+            "PostingURL": "/brk/sub/4462598785.html"
+        }, 
+        {
+            "Ask": "45", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399636636", 
+            "PostingID": "4461707513", 
+            "PostingTitle": "last moment booking a very nice private room with ur own keys ", 
+            "PostingURL": "/brk/sub/4461707513.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399584109", 
+            "PostingID": "4460948380", 
+            "PostingTitle": "Furnished room For a MEdical Student/Intern.........", 
+            "PostingURL": "/brk/sub/4460948380.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399485055", 
+            "PostingID": "4458799696", 
+            "PostingTitle": "$775 Furnished Room W/Working Professionals!!!", 
+            "PostingURL": "/brk/sub/4458799696.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399481848", 
+            "PostingID": "4458804753", 
+            "PostingTitle": "Furnished room For a MEdical Student/Intern.........", 
+            "PostingURL": "/brk/sub/4458804753.html"
+        }, 
+        {
+            "Ask": "700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_5nxanqsWYpz_50x50c.jpg", 
+            "Latitude": 40.670033, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399396508", 
+            "PostingID": "4457222271", 
+            "PostingTitle": "3 week August sublet in Crown Heights - big bright furnished", 
+            "PostingURL": "/brk/sub/4457222271.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_jxZvTpj2FLy_50x50c.jpg", 
+            "Latitude": 40.669976, 
+            "Longitude": -73.936593, 
+            "PostedDate": "1399326006", 
+            "PostingID": "4455969232", 
+            "PostingTitle": "Home Swap - January 2015", 
+            "PostingURL": "/brk/sub/4455969232.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6699830568835, 
+        "clng": -73.9365938235459, 
+        "clustered": 0, 
+        "geocoded": 9, 
+        "zoom": 26
+    }
+]

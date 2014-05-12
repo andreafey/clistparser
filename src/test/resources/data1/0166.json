@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "Ask": "1650", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00O0O_lzOBNXYvH0a_50x50c.jpg", 
+            "Latitude": 40.713464, 
+            "Longitude": -73.964095, 
+            "PostedDate": "1399862368", 
+            "PostingID": "4465744136", 
+            "PostingTitle": "**CHARMING WILLIAMSBURG!**__ADORABLE!____**1 STOP TO NYC/10 MINS!**", 
+            "PostingURL": "/brk/sub/4465744136.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Q0Q_9Xx2HPdTJsd_50x50c.jpg", 
+            "Latitude": 40.713177, 
+            "Longitude": -73.964324, 
+            "PostedDate": "1399511047", 
+            "PostingID": "4459707596", 
+            "PostingTitle": "Amazing Bedford L apartment 750 sq ft PRIVATE deck with outdoor lounge", 
+            "PostingURL": "/brk/sub/4459707596.html"
+        }, 
+        {
+            "Ask": "1650", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00O0O_lzOBNXYvH0a_50x50c.jpg", 
+            "Latitude": 40.713578, 
+            "Longitude": -73.964095, 
+            "PostedDate": "1399403897", 
+            "PostingID": "4457353203", 
+            "PostingTitle": "**CHARMING WILLIAMSBURG!**__ADORABLE!____**1 STOP TO NYC/10 MINS!**", 
+            "PostingURL": "/brk/sub/4457353203.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_hcll2DbYrNo_50x50c.jpg", 
+            "Latitude": 40.713063, 
+            "Longitude": -73.964095, 
+            "PostedDate": "1399302323", 
+            "PostingID": "4455239122", 
+            "PostingTitle": "Room for rent in Williamsburg Bedford stop+HUGE PRIVATE DECK!", 
+            "PostingURL": "/brk/sub/4455239122.html"
+        }, 
+        {
+            "Ask": "1040", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00303_flnSrShvigP_50x50c.jpg", 
+            "Latitude": 40.713063, 
+            "Longitude": -73.964095, 
+            "PostedDate": "1399246969", 
+            "PostingID": "4454448802", 
+            "PostingTitle": "Room available in 3 bedroom apt in Williamsburg BK", 
+            "PostingURL": "/brk/sub/4454448802.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_cprlgI5wuwc_50x50c.jpg", 
+            "Latitude": 40.713063, 
+            "Longitude": -73.964095, 
+            "PostedDate": "1399231601", 
+            "PostingID": "4447010529", 
+            "PostingTitle": "Sublet - fully furnished room in huge loft - williamsburg now - May 15", 
+            "PostingURL": "/brk/sub/4447010529.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7132350042158, 
+        "clng": -73.964133994897, 
+        "clustered": 0, 
+        "geocoded": 6, 
+        "zoom": 21
+    }
+]

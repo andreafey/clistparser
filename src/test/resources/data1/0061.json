@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "2100", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00i0i_2I2kSQzb282_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.95424, 
+            "PostedDate": "1399832433", 
+            "PostingID": "4462084932", 
+            "PostingTitle": "luxurious room in spectacular cool new building near L! call now", 
+            "PostingURL": "/brk/sub/4462084932.html"
+        }, 
+        {
+            "Ask": "3800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_2XCJXCdfOWK_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.95424, 
+            "PostedDate": "1399584606", 
+            "PostingID": "4438570583", 
+            "PostingTitle": "LOVELY STUDIO APARTMENT AT \"THE DRIGGS\"!!! ", 
+            "PostingURL": "/brk/sub/4438570583.html"
+        }, 
+        {
+            "Ask": "3800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_2XCJXCdfOWK_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.95424, 
+            "PostedDate": "1399584577", 
+            "PostingID": "4444241745", 
+            "PostingTitle": "LOVELY STUDIO APARTMENT AT \"THE DRIGGS\"!!! ", 
+            "PostingURL": "/brk/sub/4444241745.html"
+        }, 
+        {
+            "Ask": "3800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_2XCJXCdfOWK_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.95424, 
+            "PostedDate": "1399583626", 
+            "PostingID": "4437897334", 
+            "PostingTitle": "LOVELY STUDIO APARTMENT AT \"THE DRIGGS\"!!! ", 
+            "PostingURL": "/brk/sub/4437897334.html"
+        }, 
+        {
+            "Ask": "3800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_2XCJXCdfOWK_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.95424, 
+            "PostedDate": "1399583555", 
+            "PostingID": "4438533123", 
+            "PostingTitle": "LOVELY STUDIO APARTMENT AT \"THE DRIGGS\"!!! ", 
+            "PostingURL": "/brk/sub/4438533123.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7174748918995, 
+        "clng": -73.954240923635, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

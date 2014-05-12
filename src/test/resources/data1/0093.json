@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00D0D_24QaPYp1R65_50x50c.jpg", 
+            "Latitude": 40.690144, 
+            "Longitude": -73.906227, 
+            "PostedDate": "1399826718", 
+            "PostingID": "4465066745", 
+            "PostingTitle": "$300/week Sublet Room by Wilson L train. Available May 27-June 16", 
+            "PostingURL": "/brk/sub/4465066745.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_5pla0Zf5l2L_50x50c.jpg", 
+            "Latitude": 40.690545, 
+            "Longitude": -73.906914, 
+            "PostedDate": "1399489579", 
+            "PostingID": "4459145015", 
+            "PostingTitle": "Clean, sunny room sublet Now through May 16", 
+            "PostingURL": "/brk/sub/4459145015.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6903453403015, 
+        "clng": -73.9065708350826, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

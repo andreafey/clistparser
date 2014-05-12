@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_8j806KsPxk1_50x50c.jpg", 
+            "Latitude": 40.67032, 
+            "Longitude": -73.974466, 
+            "PostedDate": "1399803897", 
+            "PostingID": "4425537192", 
+            "PostingTitle": "Oasis of private backyard in spacious one bedroom ", 
+            "PostingURL": "/brk/sub/4425537192.html"
+        }, 
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_iDJOh0gI7fG_50x50c.jpg", 
+            "Latitude": 40.670148, 
+            "Longitude": -73.974122, 
+            "PostedDate": "1399638569", 
+            "PostingID": "4428611123", 
+            "PostingTitle": "Beautiful large one bedroom with Private backyard available June/July", 
+            "PostingURL": "/brk/sub/4428611123.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6702345216935, 
+        "clng": -73.9742944464635, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00y0y_5nPq64Lq6T1_50x50c.jpg", 
+            "Latitude": 40.714724, 
+            "Longitude": -73.958423, 
+            "PostedDate": "1399766958", 
+            "PostingID": "4464362005", 
+            "PostingTitle": "1 bd in beautiful 3bd williamsburg apartment", 
+            "PostingURL": "/brk/sub/4464362005.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_5qI1cufSo5Q_50x50c.jpg", 
+            "Latitude": 40.714839, 
+            "Longitude": -73.958824, 
+            "PostedDate": "1399578531", 
+            "PostingID": "4460823776", 
+            "PostingTitle": "Wonderful room in the heart of Williamsburg - June and July", 
+            "PostingURL": "/brk/sub/4460823776.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7147819902626, 
+        "clng": -73.9586240507675, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

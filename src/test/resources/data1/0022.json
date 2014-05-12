@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "940", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_1xaQZN36UxF_50x50c.jpg", 
+            "Latitude": 40.700286, 
+            "Longitude": -73.92903, 
+            "PostedDate": "1399816750", 
+            "PostingID": "4464862310", 
+            "PostingTitle": "$940 furnished 1BR cheap sublet in 3BR luxury building, Brooklyn", 
+            "PostingURL": "/brk/sub/4464862310.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Q0Q_duoadSd0LMB_50x50c.jpg", 
+            "Latitude": 40.700228, 
+            "Longitude": -73.929202, 
+            "PostedDate": "1399792988", 
+            "PostingID": "4464714743", 
+            "PostingTitle": "Great $1000 1-bdr, June 1st-Oct 1st!", 
+            "PostingURL": "/brk/sub/4464714743.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7002575101568, 
+        "clng": -73.9291167243198, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

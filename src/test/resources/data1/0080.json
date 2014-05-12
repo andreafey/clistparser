@@ -1,0 +1,83 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01212_hlh9286Laxw_50x50c.jpg", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399828671", 
+            "PostingID": "4465109041", 
+            "PostingTitle": "Super Cute Studio in Clinton Hill - $1400", 
+            "PostingURL": "/brk/sub/4465109041.html"
+        }, 
+        {
+            "Ask": "2500", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_c8D6UfOn2uc_50x50c.jpg", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399825807", 
+            "PostingID": "4465047392", 
+            "PostingTitle": "Summer Brownstone Sublet", 
+            "PostingURL": "/brk/sub/4465047392.html"
+        }, 
+        {
+            "Ask": "2700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00t0t_1tAp4gYqBEj_50x50c.jpg", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399816066", 
+            "PostingID": "4445264625", 
+            "PostingTitle": "Sublet An Amazing Apt. Fort Greene", 
+            "PostingURL": "/brk/sub/4445264625.html"
+        }, 
+        {
+            "Ask": "2400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399661847", 
+            "PostingID": "4462399672", 
+            "PostingTitle": "Short Term Rental May-June", 
+            "PostingURL": "/brk/sub/4462399672.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399596530", 
+            "PostingID": "4461310375", 
+            "PostingTitle": "Great inexpensive summer sublease!", 
+            "PostingURL": "/brk/sub/4461310375.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_6SrfStr7j38_50x50c.jpg", 
+            "Latitude": 40.679029, 
+            "Longitude": -73.964382, 
+            "PostedDate": "1399554021", 
+            "PostingID": "4442418078", 
+            "PostingTitle": "June 1st - 20th, Large room, sunny in a tourist friendly place", 
+            "PostingURL": "/brk/sub/4442418078.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6790294238483, 
+        "clng": -73.9643822766082, 
+        "clustered": 0, 
+        "geocoded": 6, 
+        "zoom": 30
+    }
+]

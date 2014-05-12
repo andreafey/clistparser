@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_lzCXiG2NPdq_50x50c.jpg", 
+            "Latitude": 40.691577, 
+            "Longitude": -73.936765, 
+            "PostedDate": "1399750573", 
+            "PostingID": "4422693483", 
+            "PostingTitle": "Great Fully Furnished Studio, everything included, month to month OK", 
+            "PostingURL": "/brk/sub/4422693483.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_lzCXiG2NPdq_50x50c.jpg", 
+            "Latitude": 40.691577, 
+            "Longitude": -73.936765, 
+            "PostedDate": "1399667805", 
+            "PostingID": "4458555964", 
+            "PostingTitle": "Great Fully Furnished Studio, everything included, month to month OK", 
+            "PostingURL": "/brk/sub/4458555964.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_lzCXiG2NPdq_50x50c.jpg", 
+            "Latitude": 40.691577, 
+            "Longitude": -73.936765, 
+            "PostedDate": "1399597327", 
+            "PostingID": "4455961497", 
+            "PostingTitle": "Great Fully Furnished Studio, everything included, month to month OK", 
+            "PostingURL": "/brk/sub/4455961497.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_c6LOURrl6Ai_50x50c.jpg", 
+            "Latitude": 40.691577, 
+            "Longitude": -73.936765, 
+            "PostedDate": "1399563464", 
+            "PostingID": "4453134685", 
+            "PostingTitle": "FURNISHED STUDIO AVAILABLE MONTH TO MONTH UTILITIES INCLUDED.", 
+            "PostingURL": "/brk/sub/4453134685.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.691577199561, 
+        "clng": -73.9367657108844, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 29
+    }
+]

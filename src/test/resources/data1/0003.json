@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00N0N_hBNSFR9OQX_50x50c.jpg", 
+            "Latitude": 40.6415, 
+            "Longitude": -73.999733, 
+            "PostedDate": "1399859730", 
+            "PostingID": "4465732367", 
+            "PostingTitle": "2 BR in Sunset Park, Brooklyn, $1500/month", 
+            "PostingURL": "/brk/sub/4465732367.html"
+        }, 
+        {
+            "Ask": "1500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00N0N_hBNSFR9OQX_50x50c.jpg", 
+            "Latitude": 40.641557, 
+            "Longitude": -73.999791, 
+            "PostedDate": "1399858926", 
+            "PostingID": "4453796412", 
+            "PostingTitle": "2 BR in Sunset Park, Brooklyn, $1500/mo", 
+            "PostingURL": "/brk/sub/4453796412.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.641529336159, 
+        "clng": -73.9997624204557, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 24
+    }
+]

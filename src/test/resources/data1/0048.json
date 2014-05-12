@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1850", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_hZfpEAqvT4K_50x50c.jpg", 
+            "Latitude": 40.66035, 
+            "Longitude": -73.978992, 
+            "PostedDate": "1399667616", 
+            "PostingID": "4457089907", 
+            "PostingTitle": "Large Furnished 1 Bedroom Sublet Available Through August ", 
+            "PostingURL": "/brk/sub/4457089907.html"
+        }, 
+        {
+            "Ask": "1850", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_hZfpEAqvT4K_50x50c.jpg", 
+            "Latitude": 40.66035, 
+            "Longitude": -73.978992, 
+            "PostedDate": "1399559026", 
+            "PostingID": "4460260060", 
+            "PostingTitle": "Large Furnished 1 Bedroom Sublet Available Through August ", 
+            "PostingURL": "/brk/sub/4460260060.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6603509997281, 
+        "clng": -73.9789927003833, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

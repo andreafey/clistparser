@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "2000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.672726, 
+            "Longitude": -73.954298, 
+            "PostedDate": "1399742641", 
+            "PostingID": "4463737656", 
+            "PostingTitle": "Beautiful brick 1br Sublet for end of June and July", 
+            "PostingURL": "/brk/sub/4463737656.html"
+        }, 
+        {
+            "Ask": "700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00000_fv5eHtRzFBu_50x50c.jpg", 
+            "Latitude": 40.672555, 
+            "Longitude": -73.954355, 
+            "PostedDate": "1399440451", 
+            "PostingID": "4458273578", 
+            "PostingTitle": "Room available for Mid-May and all of June!!", 
+            "PostingURL": "/brk/sub/4458273578.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.672640944433, 
+        "clng": -73.9543268673042, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

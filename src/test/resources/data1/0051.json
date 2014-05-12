@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_gnPiWU4Mavh_50x50c.jpg", 
+            "Latitude": 40.717188, 
+            "Longitude": -73.958538, 
+            "PostedDate": "1399847915", 
+            "PostingID": "4460931140", 
+            "PostingTitle": "Bedford Avenue Artist Loft with a view 5/20-5/31", 
+            "PostingURL": "/brk/sub/4460931140.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01515_55aGY97WgsV_50x50c.jpg", 
+            "Latitude": 40.717646, 
+            "Longitude": -73.958996, 
+            "PostedDate": "1399658882", 
+            "PostingID": "4450702524", 
+            "PostingTitle": "Furnished Room in the Squishy Beating Heart of Williamsburg - June 1", 
+            "PostingURL": "/brk/sub/4450702524.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_jHiEedlJo5_50x50c.jpg", 
+            "Latitude": 40.717532, 
+            "Longitude": -73.958824, 
+            "PostedDate": "1399574897", 
+            "PostingID": "4455215509", 
+            "PostingTitle": "$1000 Big & beautiful room in willamsbrg north side north side", 
+            "PostingURL": "/brk/sub/4455215509.html"
+        }, 
+        {
+            "Ask": "1700", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_aYngwlnjKtE_50x50c.jpg", 
+            "Latitude": 40.717303, 
+            "Longitude": -73.958308, 
+            "PostedDate": "1399570948", 
+            "PostingID": "4455719960", 
+            "PostingTitle": "1 block from L June 1st 1700 for room long or short term Williamsburg", 
+            "PostingURL": "/brk/sub/4455719960.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.71741759612, 
+        "clng": -73.9586670226021, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 21
+    }
+]

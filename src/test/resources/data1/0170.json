@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "3500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_31RFHfRRYOR_50x50c.jpg", 
+            "Latitude": 40.671638, 
+            "Longitude": -73.962606, 
+            "PostedDate": "1399388309", 
+            "PostingID": "4456954890", 
+            "PostingTitle": "SPACIOUS PRISTINE FULLY FURNISHED 2.5 BR 1 BLOCK BKLYN MUSEUM 2,3,4&5", 
+            "PostingURL": "/brk/sub/4456954890.html"
+        }, 
+        {
+            "Ask": "3", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.671638, 
+            "Longitude": -73.962606, 
+            "PostedDate": "1399226123", 
+            "PostingID": "4453981982", 
+            "PostingTitle": "JUNE/JULY/AUG. HUGE PROSPECT HEIGHTS", 
+            "PostingURL": "/brk/sub/4453981982.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6716382682915, 
+        "clng": -73.9626061074434, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 31
+    }
+]

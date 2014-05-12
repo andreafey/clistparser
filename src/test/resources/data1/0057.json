@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "2310", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_eo0pRsR6MLM_50x50c.jpg", 
+            "Latitude": 40.712031, 
+            "Longitude": -73.966158, 
+            "PostedDate": "1399730138", 
+            "PostingID": "4463467106", 
+            "PostingTitle": "lease takeover beginning June 1 - BEAUTIFUL NEW STUDIO Wythe Ave", 
+            "PostingURL": "/brk/sub/4463467106.html"
+        }, 
+        {
+            "Ask": "2310", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_3g2Rkqvg5Pj_50x50c.jpg", 
+            "Latitude": 40.712031, 
+            "Longitude": -73.966158, 
+            "PostedDate": "1399657848", 
+            "PostingID": "4462255577", 
+            "PostingTitle": "lease takeover beginning June 1 - BEAUTIFUL NEW STUDIO Wythe Ave", 
+            "PostingURL": "/brk/sub/4462255577.html"
+        }, 
+        {
+            "Ask": "2310", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_eo0pRsR6MLM_50x50c.jpg", 
+            "Latitude": 40.712031, 
+            "Longitude": -73.966158, 
+            "PostedDate": "1399638906", 
+            "PostingID": "4461737861", 
+            "PostingTitle": "lease takeover beginning June 1 - BEAUTIFUL NEW STUDIO Wythe Ave", 
+            "PostingURL": "/brk/sub/4461737861.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7120317928461, 
+        "clng": -73.966158445773, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "950", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.704124, 
+            "Longitude": -73.942724, 
+            "PostedDate": "1399821246", 
+            "PostingID": "4464922460", 
+            "PostingTitle": "2 SEPARATE ROOMS available in super cute, bright, apartment!", 
+            "PostingURL": "/brk/sub/4464922460.html"
+        }, 
+        {
+            "Ask": "450", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00L0L_6z2L8dhmAxl_50x50c.jpg", 
+            "Latitude": 40.704468, 
+            "Longitude": -73.942724, 
+            "PostedDate": "1399483496", 
+            "PostingID": "4451096637", 
+            "PostingTitle": "Beautiful 1br artist apartment avail for May sublet!", 
+            "PostingURL": "/brk/sub/4451096637.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7042968626122, 
+        "clng": -73.9427244719535, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

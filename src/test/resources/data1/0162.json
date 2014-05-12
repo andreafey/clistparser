@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "950", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00R0R_fc0ZSuG6Wh0_50x50c.jpg", 
+            "Latitude": 40.673643, 
+            "Longitude": -73.967075, 
+            "PostedDate": "1399756237", 
+            "PostingID": "4464098793", 
+            "PostingTitle": "MOVE IN TODAY! Sublet till June 1 -- possibly longer!", 
+            "PostingURL": "/brk/sub/4464098793.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_85sHfxL5PVN_50x50c.jpg", 
+            "Latitude": 40.6737, 
+            "Longitude": -73.967189, 
+            "PostedDate": "1399240563", 
+            "PostingID": "4454334015", 
+            "PostingTitle": "YOU SHOULD LIVE HERE - $1600, gorgeous", 
+            "PostingURL": "/brk/sub/4454334015.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6736722684641, 
+        "clng": -73.9671324740247, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

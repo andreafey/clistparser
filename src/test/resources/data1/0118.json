@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "Ask": "2100", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_4oe9ypxow5M_50x50c.jpg", 
+            "Latitude": 40.730022, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399826926", 
+            "PostingID": "4458707969", 
+            "PostingTitle": "LUXURIOUS ROOMS!! ALL AMENITIES INCLUDED!!! NEAR L COOL ROOFTOP", 
+            "PostingURL": "/brk/sub/4458707969.html"
+        }, 
+        {
+            "Ask": "2000", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01717_YRR88urB9g_50x50c.jpg", 
+            "Latitude": 40.730022, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399485489", 
+            "PostingID": "4458990853", 
+            "PostingTitle": "spectacular!! cool! luxurious!!! right off the L free internet!", 
+            "PostingURL": "/brk/sub/4458990853.html"
+        }, 
+        {
+            "Ask": "3600", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01515_dcV7MARaPDk_50x50c.jpg", 
+            "Latitude": 40.730022, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399473642", 
+            "PostingID": "4455129152", 
+            "PostingTitle": "FURNISHED STUDIO AT THE DRIGGS!!! JUST WHAT YOUR LOOKING FOR!!!", 
+            "PostingURL": "/brk/sub/4455129152.html"
+        }, 
+        {
+            "Ask": "1850", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.730022, 
+            "Longitude": -73.989248, 
+            "PostedDate": "1399393228", 
+            "PostingID": "4449142339", 
+            "PostingTitle": "COOL!! LOVELY ROOM IN LUXURIOUS APT!! NEAR L!! CALL NOW", 
+            "PostingURL": "/brk/sub/4449142339.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7300226676122, 
+        "clng": -73.9892486449156, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 30
+    }
+]

@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_knnpbvnvqIL_50x50c.jpg", 
+            "Latitude": 40.672497, 
+            "Longitude": -73.933557, 
+            "PostedDate": "1399637171", 
+            "PostingID": "4461710289", 
+            "PostingTitle": "Spacious room for rent in cool environment", 
+            "PostingURL": "/brk/sub/4461710289.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_knnpbvnvqIL_50x50c.jpg", 
+            "Latitude": 40.672497, 
+            "Longitude": -73.933557, 
+            "PostedDate": "1399291950", 
+            "PostingID": "4454992856", 
+            "PostingTitle": "Spacious room for rent in cool environment", 
+            "PostingURL": "/brk/sub/4454992856.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00p0p_knnpbvnvqIL_50x50c.jpg", 
+            "Latitude": 40.672497, 
+            "Longitude": -73.933557, 
+            "PostedDate": "1399221731", 
+            "PostingID": "4453860732", 
+            "PostingTitle": "Spacious room for rent in cool environment", 
+            "PostingURL": "/brk/sub/4453860732.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6724977049842, 
+        "clng": -73.9335571472318, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

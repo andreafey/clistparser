@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "200", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_UxsPZMUW4o_50x50c.jpg", 
+            "Latitude": 40.71736, 
+            "Longitude": -73.964439, 
+            "PostedDate": "1399645062", 
+            "PostingID": "4461869043", 
+            "PostingTitle": "Waterfront Williamsburg Loft with Amazing Views! (May 20th-29th) ", 
+            "PostingURL": "/brk/sub/4461869043.html"
+        }, 
+        {
+            "Ask": "200", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_UxsPZMUW4o_50x50c.jpg", 
+            "Latitude": 40.717474, 
+            "Longitude": -73.964554, 
+            "PostedDate": "1399561494", 
+            "PostingID": "4460327956", 
+            "PostingTitle": "Waterfront Williamsburg Loft with Amazing Views! (May 20th-29th) ", 
+            "PostingURL": "/brk/sub/4460327956.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.71741759612, 
+        "clng": -73.9644968681672, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

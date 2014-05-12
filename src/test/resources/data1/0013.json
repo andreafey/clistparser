@@ -1,0 +1,97 @@
+[
+    [
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399833207", 
+            "PostingID": "4446452037", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4446452037.html"
+        }, 
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399829693", 
+            "PostingID": "4438170807", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4438170807.html"
+        }, 
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399829524", 
+            "PostingID": "4444489804", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4444489804.html"
+        }, 
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399829518", 
+            "PostingID": "4444491092", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4444491092.html"
+        }, 
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399829452", 
+            "PostingID": "4444870046", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4444870046.html"
+        }, 
+        {
+            "Ask": "400", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00000_k1CTmFuGfcl_50x50c.jpg", 
+            "Latitude": 40.711974, 
+            "Longitude": -73.961116, 
+            "PostedDate": "1399683227", 
+            "PostingID": "4458669374", 
+            "PostingTitle": "Large room on S3rd st and Driggs Williamsburg", 
+            "PostingURL": "/brk/sub/4458669374.html"
+        }, 
+        {
+            "Ask": "3700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_d6zB6G5NZTW_50x50c.jpg", 
+            "Latitude": 40.711344, 
+            "Longitude": -73.961402, 
+            "PostedDate": "1399488307", 
+            "PostingID": "4455490055", 
+            "PostingTitle": "Fully Furnished studio In New Luxury Building!! Gym, Doorman, Deck!", 
+            "PostingURL": "/brk/sub/4455490055.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7114342797169, 
+        "clng": -73.9613619705169, 
+        "clustered": 0, 
+        "geocoded": 7, 
+        "zoom": 22
+    }
+]

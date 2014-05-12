@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_kVD8euT9NmQ_50x50c.jpg", 
+            "Latitude": 40.692952, 
+            "Longitude": -73.908117, 
+            "PostedDate": "1399753846", 
+            "PostingID": "4456772147", 
+            "PostingTitle": "AUGUST 15 PRE-BOOK - Temp Furn Rm * UNIT1 * Nr Wyckoff Hospital", 
+            "PostingURL": "/brk/sub/4456772147.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_kPxFZprcPNi_50x50c.jpg", 
+            "Latitude": 40.692952, 
+            "Longitude": -73.908117, 
+            "PostedDate": "1399753839", 
+            "PostingID": "4456771628", 
+            "PostingTitle": "JUN 1 - SUMMER TEMP FURN ROOM in 3BR- NICE APARTMENT", 
+            "PostingURL": "/brk/sub/4456771628.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_eEGyRIiGRqy_50x50c.jpg", 
+            "Latitude": 40.692952, 
+            "Longitude": -73.908117, 
+            "PostedDate": "1399736760", 
+            "PostingID": "4463552721", 
+            "PostingTitle": "AUG 15 - ALL-INCL. FURN RM. UNIT1 - nr all Brooklyn ROTATIONS", 
+            "PostingURL": "/brk/sub/4463552721.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_kPxFZprcPNi_50x50c.jpg", 
+            "Latitude": 40.692952, 
+            "Longitude": -73.908117, 
+            "PostedDate": "1399733830", 
+            "PostingID": "4463551318", 
+            "PostingTitle": "SUMMER  FURN RM UNIT2 - in 3BR - PERFECT 4 ROTATIONS in BRKLYN HOSPs", 
+            "PostingURL": "/brk/sub/4463551318.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00r0r_8aAoZdL03F8_50x50c.jpg", 
+            "Latitude": 40.692952, 
+            "Longitude": -73.908117, 
+            "PostedDate": "1399670986", 
+            "PostingID": "4458914656", 
+            "PostingTitle": "2 TEMPORARY ROOMS - TWO DIFFERENT MOVE-IN DATES - GORGEOUS - ", 
+            "PostingURL": "/brk/sub/4458914656.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6929522982693, 
+        "clng": -73.9081178211294, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

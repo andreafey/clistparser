@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00u0u_jRNWeK749rj_50x50c.jpg", 
+            "Latitude": 40.628093, 
+            "Longitude": -73.946677, 
+            "PostedDate": "1399857839", 
+            "PostingID": "4430570013", 
+            "PostingTitle": "Summer Interns safe below market 5 min walk to #2, 5", 
+            "PostingURL": "/brk/sub/4430570013.html"
+        }, 
+        {
+            "Ask": "200", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.628093, 
+            "Longitude": -73.946677, 
+            "PostedDate": "1399384386", 
+            "PostingID": "4456794970", 
+            "PostingTitle": " ave H & E 22ST", 
+            "PostingURL": "/brk/sub/4456794970.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6280934758639, 
+        "clng": -73.9466778807396, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

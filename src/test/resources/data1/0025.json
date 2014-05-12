@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_e6NJzBgSxms_50x50c.jpg", 
+            "Latitude": 40.726069, 
+            "Longitude": -73.939802, 
+            "PostedDate": "1399824824", 
+            "PostingID": "4465013053", 
+            "PostingTitle": "June/July Sublet - Fully Furnished - 1br in 3br for Female", 
+            "PostingURL": "/brk/sub/4465013053.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_4F40LwFpZve_50x50c.jpg", 
+            "Latitude": 40.726069, 
+            "Longitude": -73.939802, 
+            "PostedDate": "1399770635", 
+            "PostingID": "4460326415", 
+            "PostingTitle": "June/July Sublet - Fully Furnished - 1br in 3br for Female", 
+            "PostingURL": "/brk/sub/4460326415.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.726069258826, 
+        "clng": -73.9398023871984, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

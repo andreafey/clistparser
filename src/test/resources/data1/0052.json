@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.679487, 
+            "Longitude": -73.932869, 
+            "PostedDate": "1399656915", 
+            "PostingID": "4462073967", 
+            "PostingTitle": "Gorgeous Private Room Near A/C Trains", 
+            "PostingURL": "/brk/sub/4462073967.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.679487, 
+            "Longitude": -73.932869, 
+            "PostedDate": "1399655377", 
+            "PostingID": "4462086531", 
+            "PostingTitle": "Nice furnished room for rent...available NOw for 3 months and up...", 
+            "PostingURL": "/brk/sub/4462086531.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6794877900844, 
+        "clng": -73.9328695978777, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

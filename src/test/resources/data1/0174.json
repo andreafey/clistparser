@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.695931, 
+            "Longitude": -73.937625, 
+            "PostedDate": "1399221060", 
+            "PostingID": "4453821451", 
+            "PostingTitle": "2 Railroad-style rooms available June to Mid-August", 
+            "PostingURL": "/brk/sub/4453821451.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.695931, 
+            "Longitude": -73.937625, 
+            "PostedDate": "1399220270", 
+            "PostingID": "4453818174", 
+            "PostingTitle": "1 Bedroom w/extra storage room - June to Mid-August", 
+            "PostingURL": "/brk/sub/4453818174.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6959316788038, 
+        "clng": -73.9376251475771, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

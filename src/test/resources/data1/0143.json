@@ -1,0 +1,97 @@
+[
+    [
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_5zD211hLXgL_50x50c.jpg", 
+            "Latitude": 40.70527, 
+            "Longitude": -73.933327, 
+            "PostedDate": "1399751923", 
+            "PostingID": "4464036200", 
+            "PostingTitle": "1 bd n 3 bd loft, 20 min to City, Wall of Windws, Clean!", 
+            "PostingURL": "/brk/sub/4464036200.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_5zD211hLXgL_50x50c.jpg", 
+            "Latitude": 40.70527, 
+            "Longitude": -73.933327, 
+            "PostedDate": "1399737356", 
+            "PostingID": "4463609448", 
+            "PostingTitle": "Furnished SUMMER SUBLET:1 bd n 3 bd loft, 20 min to City, Clean!!", 
+            "PostingURL": "/brk/sub/4463609448.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_5zD211hLXgL_50x50c.jpg", 
+            "Latitude": 40.70527, 
+            "Longitude": -73.933327, 
+            "PostedDate": "1399662244", 
+            "PostingID": "4462340975", 
+            "PostingTitle": "Furnished SUMMER SUBLET:1 bd n 3 bd loft, 20 min to City, Clean!!", 
+            "PostingURL": "/brk/sub/4462340975.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_5zD211hLXgL_50x50c.jpg", 
+            "Latitude": 40.70527, 
+            "Longitude": -73.933327, 
+            "PostedDate": "1399607818", 
+            "PostingID": "4461470575", 
+            "PostingTitle": "Furnished SUMMER SUBLET:1 bd n 3 bd loft, 20 min to City, Clean!!", 
+            "PostingURL": "/brk/sub/4461470575.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_5zD211hLXgL_50x50c.jpg", 
+            "Latitude": 40.70527, 
+            "Longitude": -73.933327, 
+            "PostedDate": "1399606461", 
+            "PostingID": "4461471922", 
+            "PostingTitle": "Furnished SUMMER SUBLET:1 bd n 3 bd loft, 20 min to City, Clean!!", 
+            "PostingURL": "/brk/sub/4461471922.html"
+        }, 
+        {
+            "Ask": "975", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_klKeLEguQrh_50x50c.jpg", 
+            "Latitude": 40.705671, 
+            "Longitude": -73.933385, 
+            "PostedDate": "1399473782", 
+            "PostingID": "4458628140", 
+            "PostingTitle": "Private room in nice loft, starting June 1st", 
+            "PostingURL": "/brk/sub/4458628140.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00r0r_6rQA8QIKz25_50x50c.jpg", 
+            "Latitude": 40.705614, 
+            "Longitude": -73.933786, 
+            "PostedDate": "1399314659", 
+            "PostingID": "4444562368", 
+            "PostingTitle": "Loft in Bushwick Available NOW !!", 
+            "PostingURL": "/brk/sub/4444562368.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7053772973116, 
+        "clng": -73.933401630116, 
+        "clustered": 0, 
+        "geocoded": 7, 
+        "zoom": 21
+    }
+]

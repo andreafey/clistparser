@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_ey5gRyZWooj_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399780242", 
+            "PostingID": "4464601748", 
+            "PostingTitle": "4-week Furnished 1BR Sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4464601748.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_ey5gRyZWooj_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399731907", 
+            "PostingID": "4463488816", 
+            "PostingTitle": "4-week Furnished 1BR Sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4463488816.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399647449", 
+            "PostingID": "4461883607", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4461883607.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399573390", 
+            "PostingID": "4460671892", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4460671892.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399472663", 
+            "PostingID": "4458573588", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4458573588.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399411468", 
+            "PostingID": "4457669547", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4457669547.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399386859", 
+            "PostingID": "4456874412", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4456874412.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_kjPrKBUh49w_50x50c.jpg", 
+            "Latitude": 40.703036, 
+            "Longitude": -73.929832, 
+            "PostedDate": "1399303667", 
+            "PostingID": "4455183033", 
+            "PostingTitle": "4-Week Furnished 1BR sublet (May 26-June 22)", 
+            "PostingURL": "/brk/sub/4455183033.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.703036355463, 
+        "clng": -73.9298329215637, 
+        "clustered": 0, 
+        "geocoded": 8, 
+        "zoom": 29
+    }
+]

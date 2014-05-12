@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "1200", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00x0x_gkRYHpqL6wY_50x50c.jpg", 
+            "Latitude": 40.68281, 
+            "Longitude": -73.960715, 
+            "PostedDate": "1399835524", 
+            "PostingID": "4465218344", 
+            "PostingTitle": "Awesome room in two bedroom available June 1st! ", 
+            "PostingURL": "/brk/sub/4465218344.html"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.68281, 
+            "Longitude": -73.960715, 
+            "PostedDate": "1399654352", 
+            "PostingID": "4462121648", 
+            "PostingTitle": "Awesome room in two bedroom available for June 1st!", 
+            "PostingURL": "/brk/sub/4462121648.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.682810945296, 
+        "clng": -73.9607153467196, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

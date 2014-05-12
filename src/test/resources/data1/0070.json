@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00202_cCFmmu2SbC6_50x50c.jpg", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399666688", 
+            "PostingID": "4462534195", 
+            "PostingTitle": "July Sublet in Williamsburg Loft", 
+            "PostingURL": "/brk/sub/4462534195.html"
+        }, 
+        {
+            "Ask": "1500", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00M0M_kqYUiDBJ32Y_50x50c.jpg", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399650650", 
+            "PostingID": "4451090661", 
+            "PostingTitle": "BR in huge N Wburg loft avail Late May to August", 
+            "PostingURL": "/brk/sub/4451090661.html"
+        }, 
+        {
+            "Ask": "3995", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_e22y9AmBF2W_50x50c.jpg", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399574782", 
+            "PostingID": "4460738370", 
+            "PostingTitle": "ULTRA LUXURY 1BED CONDO BUILDING ON THE WATERFRONT", 
+            "PostingURL": "/brk/sub/4460738370.html"
+        }, 
+        {
+            "Ask": "1250", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399567601", 
+            "PostingID": "4432357366", 
+            "PostingTitle": "Shared Room for Girls Only - Upscale Building", 
+            "PostingURL": "/brk/sub/4432357366.html"
+        }, 
+        {
+            "Ask": "375", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_lgRkbgCLBl5_50x50c.jpg", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399567544", 
+            "PostingID": "4446440922", 
+            "PostingTitle": "Shared Room flat on trendy Williamsburg Shore - Girls Only", 
+            "PostingURL": "/brk/sub/4446440922.html"
+        }, 
+        {
+            "Ask": "1275", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_lgRkbgCLBl5_50x50c.jpg", 
+            "Latitude": 40.719251, 
+            "Longitude": -73.962892, 
+            "PostedDate": "1399567522", 
+            "PostingID": "4455251182", 
+            "PostingTitle": "Shared Rm for Models, Students, Actress's, Young Professionals", 
+            "PostingURL": "/brk/sub/4455251182.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7192510610644, 
+        "clng": -73.962892586341, 
+        "clustered": 0, 
+        "geocoded": 6, 
+        "zoom": 30
+    }
+]

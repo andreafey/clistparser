@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00n0n_7ZMDyZl8OcO_50x50c.jpg", 
+            "Latitude": 40.706187, 
+            "Longitude": -73.928457, 
+            "PostedDate": "1399343872", 
+            "PostingID": "4451572489", 
+            "PostingTitle": "Spacious studio loft off the Morgan L, until May 28th", 
+            "PostingURL": "/brk/sub/4451572489.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_iKtc1RYIHPY_50x50c.jpg", 
+            "Latitude": 40.70613, 
+            "Longitude": -73.928858, 
+            "PostedDate": "1399302269", 
+            "PostingID": "4455206467", 
+            "PostingTitle": " *COUPLES WELCOME* LIVE/WORK: SHOWING TODAY MAY 5TH", 
+            "PostingURL": "/brk/sub/4455206467.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_iKtc1RYIHPY_50x50c.jpg", 
+            "Latitude": 40.70613, 
+            "Longitude": -73.928858, 
+            "PostedDate": "1399257564", 
+            "PostingID": "4454705193", 
+            "PostingTitle": "*COUPLES* LIVE/WORK: first floor bedroom w/basement workshop/office", 
+            "PostingURL": "/brk/sub/4454705193.html"
+        }, 
+        {
+            "Ask": "1700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_iKtc1RYIHPY_50x50c.jpg", 
+            "Latitude": 40.70613, 
+            "Longitude": -73.928858, 
+            "PostedDate": "1399244430", 
+            "PostingID": "4454430391", 
+            "PostingTitle": "*COUPLES* LIVE/WORK: first floor bedroom w/basement workshop/office", 
+            "PostingURL": "/brk/sub/4454430391.html"
+        }, 
+        {
+            "Ask": "1700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_iKtc1RYIHPY_50x50c.jpg", 
+            "Latitude": 40.70613, 
+            "Longitude": -73.928858, 
+            "PostedDate": "1399223429", 
+            "PostingID": "4453910535", 
+            "PostingTitle": "LIVE/WORK: first floor bedroom w/basement workshop/office", 
+            "PostingURL": "/brk/sub/4453910535.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7061417867125, 
+        "clng": -73.9287786792207, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 21
+    }
+]

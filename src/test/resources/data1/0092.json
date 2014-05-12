@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00O0O_lp5O3ezIClV_50x50c.jpg", 
+            "Latitude": 40.675018, 
+            "Longitude": -73.949829, 
+            "PostedDate": "1399761301", 
+            "PostingID": "4464277826", 
+            "PostingTitle": "a room available in 4 bedroom/2bath apt", 
+            "PostingURL": "/brk/sub/4464277826.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_1UMj9vhxgOQ_50x50c.jpg", 
+            "Latitude": 40.675935, 
+            "Longitude": -73.949943, 
+            "PostedDate": "1399491928", 
+            "PostingID": "4432942110", 
+            "PostingTitle": "Sunny Room for Rent-May 1st", 
+            "PostingURL": "/brk/sub/4432942110.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_1UMj9vhxgOQ_50x50c.jpg", 
+            "Latitude": 40.675935, 
+            "Longitude": -73.949943, 
+            "PostedDate": "1399491909", 
+            "PostingID": "4436188594", 
+            "PostingTitle": "Sunny Room for Rent-May 1st", 
+            "PostingURL": "/brk/sub/4436188594.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_1UMj9vhxgOQ_50x50c.jpg", 
+            "Latitude": 40.675935, 
+            "Longitude": -73.949943, 
+            "PostedDate": "1399491893", 
+            "PostingID": "4436184759", 
+            "PostingTitle": "Sunny Room for Rent-May 1st", 
+            "PostingURL": "/brk/sub/4436184759.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6757062686368, 
+        "clng": -73.949915092282, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 20
+    }
+]

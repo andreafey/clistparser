@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1365", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_k1WwWBrc7QC_50x50c.jpg", 
+            "Latitude": 40.687738, 
+            "Longitude": -73.956991, 
+            "PostedDate": "1399678108", 
+            "PostingID": "4457612595", 
+            "PostingTitle": "~3 Month Sublet in Clinton Hill - Perfect for Summer Interns", 
+            "PostingURL": "/brk/sub/4457612595.html"
+        }, 
+        {
+            "Ask": "1365", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_k1WwWBrc7QC_50x50c.jpg", 
+            "Latitude": 40.687738, 
+            "Longitude": -73.956991, 
+            "PostedDate": "1399562047", 
+            "PostingID": "4455144410", 
+            "PostingTitle": "Clinton Hill Summer Sublet - Perfect for Summer Interns", 
+            "PostingURL": "/brk/sub/4455144410.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00909_k1WwWBrc7QC_50x50c.jpg", 
+            "Latitude": 40.687738, 
+            "Longitude": -73.956991, 
+            "PostedDate": "1399562017", 
+            "PostingID": "4456704005", 
+            "PostingTitle": "Perfect for Summer Interns - Clinton Hill Sublet", 
+            "PostingURL": "/brk/sub/4456704005.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6877383823339, 
+        "clng": -73.9569911210514, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 30
+    }
+]

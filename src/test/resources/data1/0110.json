@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00z0z_9VltzJ7Ot6S_50x50c.jpg", 
+            "Latitude": 40.684529, 
+            "Longitude": -73.93264, 
+            "PostedDate": "1399741487", 
+            "PostingID": "4463762581", 
+            "PostingTitle": "Amazing Sunny Brownstone Available Now", 
+            "PostingURL": "/brk/sub/4463762581.html"
+        }, 
+        {
+            "Ask": "1900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_9JV0Qqj2GAT_50x50c.jpg", 
+            "Latitude": 40.684587, 
+            "Longitude": -73.932353, 
+            "PostedDate": "1399647808", 
+            "PostingID": "4461947476", 
+            "PostingTitle": "one bedroom sublet available for July", 
+            "PostingURL": "/brk/sub/4461947476.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00h0h_l8M4OVFcl3e_50x50c.jpg", 
+            "Latitude": 40.684587, 
+            "Longitude": -73.932353, 
+            "PostedDate": "1399511704", 
+            "PostingID": "4459717673", 
+            "PostingTitle": "1 bedroom available for July", 
+            "PostingURL": "/brk/sub/4459717673.html"
+        }, 
+        {
+            "Ask": "2000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_gnJnzz3J1IR_50x50c.jpg", 
+            "Latitude": 40.684587, 
+            "Longitude": -73.932353, 
+            "PostedDate": "1399420926", 
+            "PostingID": "4457929078", 
+            "PostingTitle": "one bedroom sublet available for July", 
+            "PostingURL": "/brk/sub/4457929078.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6845727905159, 
+        "clng": -73.9324255555865, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 21
+    }
+]

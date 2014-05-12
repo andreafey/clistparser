@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "130", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_aE7YLafIjFm_50x50c.jpg", 
+            "Latitude": 40.676393, 
+            "Longitude": -73.948282, 
+            "PostedDate": "1399658964", 
+            "PostingID": "4443195716", 
+            "PostingTitle": "2 Movers, 2 Hours $130 ", 
+            "PostingURL": "/brk/sub/4443195716.html"
+        }, 
+        {
+            "Ask": "130", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_aE7YLafIjFm_50x50c.jpg", 
+            "Latitude": 40.676393, 
+            "Longitude": -73.948282, 
+            "PostedDate": "1399577198", 
+            "PostingID": "4450262303", 
+            "PostingTitle": "2 Movers, 2 Hours $130 ", 
+            "PostingURL": "/brk/sub/4450262303.html"
+        }, 
+        {
+            "Ask": "130", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_aE7YLafIjFm_50x50c.jpg", 
+            "Latitude": 40.676393, 
+            "Longitude": -73.948282, 
+            "PostedDate": "1399415201", 
+            "PostingID": "4433020582", 
+            "PostingTitle": "2 Movers, 2 Hours $130 ", 
+            "PostingURL": "/brk/sub/4433020582.html"
+        }, 
+        {
+            "Ask": "130", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_aE7YLafIjFm_50x50c.jpg", 
+            "Latitude": 40.676393, 
+            "Longitude": -73.948282, 
+            "PostedDate": "1399305213", 
+            "PostingID": "4424066654", 
+            "PostingTitle": "2 Movers, 2 Hours $130 ", 
+            "PostingURL": "/brk/sub/4424066654.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6763938179909, 
+        "clng": -73.9482821625659, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 29
+    }
+]

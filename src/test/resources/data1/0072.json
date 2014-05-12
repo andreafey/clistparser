@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00L0L_48nkYseE6ff_50x50c.jpg", 
+            "Latitude": 40.675076, 
+            "Longitude": -73.95636, 
+            "PostedDate": "1399570366", 
+            "PostingID": "4460607511", 
+            "PostingTitle": "Wonderful 1-bedroom summer vacation sublet :-)", 
+            "PostingURL": "/brk/sub/4460607511.html"
+        }, 
+        {
+            "Ask": "750", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00b0b_bP53CreICgF_50x50c.jpg", 
+            "Latitude": 40.675935, 
+            "Longitude": -73.956074, 
+            "PostedDate": "1399562075", 
+            "PostingID": "4460329290", 
+            "PostingTitle": "SUBLET JUNE 1ST - CROWN HEIGHTS/PROSPECT HEIGHTS", 
+            "PostingURL": "/brk/sub/4460329290.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6755057334085, 
+        "clng": -73.9562176280281, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 20
+    }
+]

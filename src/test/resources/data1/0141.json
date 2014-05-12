@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "Ask": "1500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.708765, 
+            "Longitude": -73.943412, 
+            "PostedDate": "1399774197", 
+            "PostingID": "4464506843", 
+            "PostingTitle": "$1500 Williamsburg June Sublet.. Comes with two cats!!!Woo Hoo!!", 
+            "PostingURL": "/brk/sub/4464506843.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00F0F_1BLGNBD8Kut_50x50c.jpg", 
+            "Latitude": 40.708078, 
+            "Longitude": -73.943297, 
+            "PostedDate": "1399483117", 
+            "PostingID": "4458850747", 
+            "PostingTitle": " Fully Furnished private room, 1blk to L train, 10 min Union Sq", 
+            "PostingURL": "/brk/sub/4458850747.html"
+        }, 
+        {
+            "Ask": "1450", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00s0s_frDhPyQJPZo_50x50c.jpg", 
+            "Latitude": 40.708765, 
+            "Longitude": -73.943412, 
+            "PostedDate": "1399423627", 
+            "PostingID": "4457998681", 
+            "PostingTitle": "Summer Sublet off the Montrose L", 
+            "PostingURL": "/brk/sub/4457998681.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Z0Z_brMZirVGwTC_50x50c.jpg", 
+            "Latitude": 40.708078, 
+            "Longitude": -73.943297, 
+            "PostedDate": "1399408235", 
+            "PostingID": "4457600874", 
+            "PostingTitle": "Fully Furnished private room, 1blk to L train, 10 min Union Sq", 
+            "PostingURL": "/brk/sub/4457600874.html"
+        }, 
+        {
+            "Ask": "2000", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00j0j_dWlkkuaxgAo_50x50c.jpg", 
+            "Latitude": 40.708823, 
+            "Longitude": -73.943469, 
+            "PostedDate": "1399316745", 
+            "PostingID": "4455604643", 
+            "PostingTitle": "east williamsburg studio private stairway to private rooftop furnished", 
+            "PostingURL": "/brk/sub/4455604643.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7085023728283, 
+        "clng": -73.9433776438399, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 20
+    }
+]

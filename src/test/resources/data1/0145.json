@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "Ask": "1250", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.625114, 
+            "Longitude": -74.030329, 
+            "PostedDate": "1399436705", 
+            "PostingID": "4458238459", 
+            "PostingTitle": "One BR apt Sublet for 2 Months", 
+            "PostingURL": "/brk/sub/4458238459.html"
+        }, 
+        {
+            "Ask": "2800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_fGkTVwPba45_50x50c.jpg", 
+            "Latitude": 40.625114, 
+            "Longitude": -74.030329, 
+            "PostedDate": "1399337487", 
+            "PostingID": "4456296993", 
+            "PostingTitle": "Beautiful one bedroom loft", 
+            "PostingURL": "/brk/sub/4456296993.html"
+        }, 
+        {
+            "Ask": "3500", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "Latitude": 40.625114, 
+            "Longitude": -74.030329, 
+            "PostedDate": "1399337472", 
+            "PostingID": "4445685533", 
+            "PostingTitle": "3 bedrooms duplex with 2 baths and a backyard", 
+            "PostingURL": "/brk/sub/4445685533.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00n0n_eyJZE0E4wVn_50x50c.jpg", 
+            "Latitude": 40.625114, 
+            "Longitude": -74.030329, 
+            "PostedDate": "1399313472", 
+            "PostingID": "4418830845", 
+            "PostingTitle": "Great room in Brooklyn - JUL/AUG", 
+            "PostingURL": "/brk/sub/4418830845.html"
+        }, 
+        {
+            "Ask": "1700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.625114, 
+            "Longitude": -74.030329, 
+            "PostedDate": "1399300685", 
+            "PostingID": "4455189509", 
+            "PostingTitle": "Sublet for July & August   ", 
+            "PostingURL": "/brk/sub/4455189509.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6251140953294, 
+        "clng": -74.0303297188242, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

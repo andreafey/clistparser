@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_dmkWsgOEnUz_50x50c.jpg", 
+            "Latitude": 40.635771, 
+            "Longitude": -74.026032, 
+            "PostedDate": "1399680207", 
+            "PostingID": "4462895613", 
+            "PostingTitle": " $1300 / 1br - 700ft\u00b2 - One BedRomm APT Sublet for 2 Months (bay ridge", 
+            "PostingURL": "/brk/sub/4462895613.html"
+        }, 
+        {
+            "Ask": "1300", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00101_eHUlAncCZ25_50x50c.jpg", 
+            "Latitude": 40.635771, 
+            "Longitude": -74.026032, 
+            "PostedDate": "1399501857", 
+            "PostingID": "4459497464", 
+            "PostingTitle": "One BedRomm APT Sublet for 2 Months", 
+            "PostingURL": "/brk/sub/4459497464.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6357711103183, 
+        "clng": -74.026032535361, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

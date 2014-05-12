@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "Ask": "900", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_3Bx7twYHubk_50x50c.jpg", 
+            "Latitude": 40.68917, 
+            "Longitude": -73.968794, 
+            "PostedDate": "1399643077", 
+            "PostingID": "4461818589", 
+            "PostingTitle": "1br - Awesome Room in 3BD, **Till End of May** Wash/Dryer, Furnished", 
+            "PostingURL": "/brk/sub/4461818589.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_4h5knfcPUDs_50x50c.jpg", 
+            "Latitude": 40.689457, 
+            "Longitude": -73.968507, 
+            "PostedDate": "1399580085", 
+            "PostingID": "4460906925", 
+            "PostingTitle": "1br - Awesome Room in 3BD, **Till End of May** Wash/Dryer, Furnished", 
+            "PostingURL": "/brk/sub/4460906925.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_4h5knfcPUDs_50x50c.jpg", 
+            "Latitude": 40.689457, 
+            "Longitude": -73.968507, 
+            "PostedDate": "1399392614", 
+            "PostingID": "4457092433", 
+            "PostingTitle": "Beautiful 1BD in 3BD w/ Wash/Dry, Amzg Area, *MAY ONLY*, Great Light. ", 
+            "PostingURL": "/brk/sub/4457092433.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_4h5knfcPUDs_50x50c.jpg", 
+            "Latitude": 40.689457, 
+            "Longitude": -73.968507, 
+            "PostedDate": "1399299075", 
+            "PostingID": "4455144046", 
+            "PostingTitle": "1 BD in Beautiful 3 BD 5/5-6/1 w/ wash & dryer", 
+            "PostingURL": "/brk/sub/4455144046.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6893856359948, 
+        "clng": -73.9685791924573, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 21
+    }
+]

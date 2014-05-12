@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "650", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.640698, 
+            "Longitude": -73.902789, 
+            "PostedDate": "1399466041", 
+            "PostingID": "4458450305", 
+            "PostingTitle": "Unfurnished Rooms", 
+            "PostingURL": "/brk/sub/4458450305.html"
+        }, 
+        {
+            "Ask": "160", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.640698, 
+            "Longitude": -73.902789, 
+            "PostedDate": "1399386147", 
+            "PostingID": "4456874630", 
+            "PostingTitle": "$160 a week brooklyn room rental", 
+            "PostingURL": "/brk/sub/4456874630.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6406985473562, 
+        "clng": -73.902789313635, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

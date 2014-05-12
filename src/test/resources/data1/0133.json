@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_gnZ8usB2j4D_50x50c.jpg", 
+            "Latitude": 40.702577, 
+            "Longitude": -73.910352, 
+            "PostedDate": "1399500052", 
+            "PostingID": "4459445314", 
+            "PostingTitle": "AUGUST Private Big Bedroom L Train ", 
+            "PostingURL": "/brk/sub/4459445314.html"
+        }, 
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00v0v_gnZ8usB2j4D_50x50c.jpg", 
+            "Latitude": 40.702577, 
+            "Longitude": -73.910352, 
+            "PostedDate": "1399332750", 
+            "PostingID": "4456182001", 
+            "PostingTitle": "AUGUST Private Big Bedroom L Train", 
+            "PostingURL": "/brk/sub/4456182001.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7025779892269, 
+        "clng": -73.9103523565303, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "1050", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.698624, 
+            "Longitude": -73.937625, 
+            "PostedDate": "1399578859", 
+            "PostingID": "4460853157", 
+            "PostingTitle": "June 2014 Sublet - $1050", 
+            "PostingURL": "/brk/sub/4460853157.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "Latitude": 40.698166, 
+            "Longitude": -73.937395, 
+            "PostedDate": "1399307879", 
+            "PostingID": "4455383654", 
+            "PostingTitle": "$475 Large Room Available to Sublet for May (immediately until June 5)", 
+            "PostingURL": "/brk/sub/4455383654.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6983953973227, 
+        "clng": -73.937510556018, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

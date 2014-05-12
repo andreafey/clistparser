@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_2ACHgcl23PB_50x50c.jpg", 
+            "Latitude": 40.671179, 
+            "Longitude": -73.974695, 
+            "PostedDate": "1399235255", 
+            "PostingID": "4454222118", 
+            "PostingTitle": "Park Slope Share - Mid May - Mid June", 
+            "PostingURL": "/brk/sub/4454222118.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_2ACHgcl23PB_50x50c.jpg", 
+            "Latitude": 40.671179, 
+            "Longitude": -73.974695, 
+            "PostedDate": "1399234453", 
+            "PostingID": "4454201739", 
+            "PostingTitle": "Mid May - Mid June Center Slope share", 
+            "PostingURL": "/brk/sub/4454201739.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6711799020555, 
+        "clng": -73.97469551692, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

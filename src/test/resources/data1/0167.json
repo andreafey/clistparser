@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00y0y_6BVv2xgieZy_50x50c.jpg", 
+            "Latitude": 40.638635, 
+            "Longitude": -73.945589, 
+            "PostedDate": "1399288788", 
+            "PostingID": "4454937232", 
+            "PostingTitle": "I have a sublet that must be filled by 5/15/2014", 
+            "PostingURL": "/brk/sub/4454937232.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00y0y_6BVv2xgieZy_50x50c.jpg", 
+            "Latitude": 40.638464, 
+            "Longitude": -73.945589, 
+            "PostedDate": "1399230589", 
+            "PostingID": "4454001801", 
+            "PostingTitle": "$1100 / 1br - 650ft\u00b2 - I have a sublet that must be filled by 5/15/201", 
+            "PostingURL": "/brk/sub/4454001801.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6385499556245, 
+        "clng": -73.9455892609289, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 23
+    }
+]

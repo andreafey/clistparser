@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "800", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "Latitude": 40.694556, 
+            "Longitude": -73.924103, 
+            "PostedDate": "1399841009", 
+            "PostingID": "4465352936", 
+            "PostingTitle": "Furnished room in Bushwick $800", 
+            "PostingURL": "/brk/sub/4465352936.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00707_cgj0Dp2huBH_50x50c.jpg", 
+            "Latitude": 40.694843, 
+            "Longitude": -73.92502, 
+            "PostedDate": "1399514962", 
+            "PostingID": "4459786507", 
+            "PostingTitle": "One bedroom available May 15 or before", 
+            "PostingURL": "/brk/sub/4459786507.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6946998195443, 
+        "clng": -73.9245617098488, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 20
+    }
+]

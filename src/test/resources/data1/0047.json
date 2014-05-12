@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "Ask": "899", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.624884, 
+            "Longitude": -74.029355, 
+            "PostedDate": "1399668748", 
+            "PostingID": "4451210779", 
+            "PostingTitle": "SUN DRIED TOMATOES & PESTO", 
+            "PostingURL": "/brk/sub/4451210779.html"
+        }, 
+        {
+            "Ask": "899", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.624426, 
+            "Longitude": -74.02947, 
+            "PostedDate": "1399668709", 
+            "PostingID": "4451299528", 
+            "PostingTitle": "BROOKLYN COOL Summer Sublet", 
+            "PostingURL": "/brk/sub/4451299528.html"
+        }, 
+        {
+            "Ask": "899", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.624254, 
+            "Longitude": -74.029814, 
+            "PostedDate": "1399668649", 
+            "PostingID": "4457653748", 
+            "PostingTitle": "FOURTH FLOOR J'ADORE", 
+            "PostingURL": "/brk/sub/4457653748.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6245220389411, 
+        "clng": -74.0295466765043, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 20
+    }
+]

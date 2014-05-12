@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.701947, 
+            "Longitude": -73.906227, 
+            "PostedDate": "1399776257", 
+            "PostingID": "4464563959", 
+            "PostingTitle": "Minutes to Wyckoff hospital , L & M train", 
+            "PostingURL": "/brk/sub/4464563959.html"
+        }, 
+        {
+            "Ask": "700", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.701947, 
+            "Longitude": -73.906227, 
+            "PostedDate": "1399646819", 
+            "PostingID": "4461918494", 
+            "PostingTitle": "Minutes to Wyckoff hospital , L & M train", 
+            "PostingURL": "/brk/sub/4461918494.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7019477356523, 
+        "clng": -73.9062270604056, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]

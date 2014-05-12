@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1600", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00m0m_l2rPn2UwrmJ_50x50c.jpg", 
+            "Latitude": 40.711, 
+            "Longitude": -73.952006, 
+            "PostedDate": "1399729055", 
+            "PostingID": "4457353871", 
+            "PostingTitle": "Furnished Williamsburg Apartment - June 1 to August 31", 
+            "PostingURL": "/brk/sub/4457353871.html"
+        }, 
+        {
+            "Ask": "1650", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_ieOJQX7IhJl_50x50c.jpg", 
+            "Latitude": 40.710828, 
+            "Longitude": -73.952407, 
+            "PostedDate": "1399695249", 
+            "PostingID": "4463114263", 
+            "PostingTitle": "Fully Furnished Prime Williamsburg Lower Penthouse Apartment", 
+            "PostingURL": "/brk/sub/4463114263.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7109145251457, 
+        "clng": -73.9522069234623, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 21
+    }
+]

@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00N0N_lzugO4aURxw_50x50c.jpg", 
+            "Latitude": 40.706531, 
+            "Longitude": -73.943068, 
+            "PostedDate": "1399310977", 
+            "PostingID": "4451016649", 
+            "PostingTitle": "Big Bedroom Sublet - Montrose L", 
+            "PostingURL": "/brk/sub/4451016649.html"
+        }, 
+        {
+            "Ask": "400", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00u0u_i4zIlYz0wA0_50x50c.jpg", 
+            "Latitude": 40.706531, 
+            "Longitude": -73.943068, 
+            "PostedDate": "1399310930", 
+            "PostingID": "4444668193", 
+            "PostingTitle": "LARGE BEDROOM SUBLET - Montrose L stop ", 
+            "PostingURL": "/brk/sub/4444668193.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7065313980131, 
+        "clng": -73.9430682466305, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

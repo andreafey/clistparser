@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "800", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00000_5C7HMnvaVYx_50x50c.jpg", 
+            "Latitude": 40.7055, 
+            "Longitude": -73.938083, 
+            "PostedDate": "1399649526", 
+            "PostingID": "4462000441", 
+            "PostingTitle": "Live/Work/Play Paradise", 
+            "PostingURL": "/brk/sub/4462000441.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "6", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_1QOobYBdqff_50x50c.jpg", 
+            "Latitude": 40.7055, 
+            "Longitude": -73.938083, 
+            "PostedDate": "1399313876", 
+            "PostingID": "4455546793", 
+            "PostingTitle": "1 Furnished Bedroom with Loft - Available June 1st for 6-12 Months", 
+            "PostingURL": "/brk/sub/4455546793.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.705500073982, 
+        "clng": -73.9380835138131, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "Ask": "2266", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00E0E_5DveXSrRgx_50x50c.jpg", 
+            "Latitude": 40.667283, 
+            "Longitude": -73.987587, 
+            "PostedDate": "1399495099", 
+            "PostingID": "4459313584", 
+            "PostingTitle": "Sunny 2br Top Floor Apt in Park Slope (June 1 to July 31)", 
+            "PostingURL": "/brk/sub/4459313584.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.667398, 
+            "Longitude": -73.987816, 
+            "PostedDate": "1399311816", 
+            "PostingID": "4455562674", 
+            "PostingTitle": "$750 Large beautiful furnished room ", 
+            "PostingURL": "/brk/sub/4455562674.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6673410848283, 
+        "clng": -73.9877016588688, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

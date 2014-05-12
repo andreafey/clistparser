@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "45", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.708364, 
+            "Longitude": -73.957965, 
+            "PostedDate": "1399342362", 
+            "PostingID": "4456405556", 
+            "PostingTitle": "Cozy Room in Williamsburg! Steps to L and JMZ Train (Williamsburg)", 
+            "PostingURL": "/brk/sub/4456405556.html"
+        }, 
+        {
+            "Ask": "45", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.708422, 
+            "Longitude": -73.957965, 
+            "PostedDate": "1399332275", 
+            "PostingID": "4456170013", 
+            "PostingTitle": "Comfortable Room in Williamsburg! Steps to L and JMZ ", 
+            "PostingURL": "/brk/sub/4456170013.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7083935108472, 
+        "clng": -73.9579651493031, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 24
+    }
+]

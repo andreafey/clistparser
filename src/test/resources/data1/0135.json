@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00V0V_clWtC9rz4pb_50x50c.jpg", 
+            "Latitude": 40.700056, 
+            "Longitude": -73.922327, 
+            "PostedDate": "1399667766", 
+            "PostingID": "4462580853", 
+            "PostingTitle": "May 15-June 1st Tea Factory Sublet", 
+            "PostingURL": "/brk/sub/4462580853.html"
+        }, 
+        {
+            "Ask": "1125", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00e0e_o2kilQLReE_50x50c.jpg", 
+            "Latitude": 40.700286, 
+            "Longitude": -73.92204, 
+            "PostedDate": "1399327785", 
+            "PostingID": "4456042964", 
+            "PostingTitle": "FURNISHED ROOM AVAILABLE JUNE 1ST - Bushwick", 
+            "PostingURL": "/brk/sub/4456042964.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7001715664875, 
+        "clng": -73.9221839349991, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

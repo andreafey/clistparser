@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "Ask": "1800", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.642417, 
+            "Longitude": -73.975784, 
+            "PostedDate": "1399719620", 
+            "PostingID": "4459835368", 
+            "PostingTitle": "GREAT APT FOR SUMMER!!!", 
+            "PostingURL": "/brk/sub/4459835368.html"
+        }, 
+        {
+            "Ask": "850", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.642417, 
+            "Longitude": -73.975784, 
+            "PostedDate": "1399382472", 
+            "PostingID": "4446387958", 
+            "PostingTitle": "DITMAS PARK room- may sublet", 
+            "PostingURL": "/brk/sub/4446387958.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6424174207414, 
+        "clng": -73.9757841367307, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

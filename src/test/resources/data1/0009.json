@@ -1,0 +1,48 @@
+[
+    [
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "Latitude": 40.684186, 
+            "Longitude": -73.983977, 
+            "PostedDate": "1399837511", 
+            "PostingID": "4431135728", 
+            "PostingTitle": "$300/week - Cute sunny one bedroom in Duplex", 
+            "PostingURL": "/brk/sub/4431135728.html"
+        }, 
+        {
+            "Ask": "1250", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_cfA0mGXXrxJ_50x50c.jpg", 
+            "Latitude": 40.684128, 
+            "Longitude": -73.983748, 
+            "PostedDate": "1399264674", 
+            "PostingID": "4454817402", 
+            "PostingTitle": "Full 2 Bed or Individual rooms May6-Jun1 flexible dates, furnished", 
+            "PostingURL": "/brk/sub/4454817402.html"
+        }, 
+        {
+            "Ask": "2500", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00o0o_cfA0mGXXrxJ_50x50c.jpg", 
+            "Latitude": 40.684128, 
+            "Longitude": -73.983748, 
+            "PostedDate": "1399264655", 
+            "PostingID": "4454817196", 
+            "PostingTitle": "Boerum Hill Full 2 bed avail. or individual room May 6-Jun 1(flexible)", 
+            "PostingURL": "/brk/sub/4454817196.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6841478468179, 
+        "clng": -73.9838246444553, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 22
+    }
+]

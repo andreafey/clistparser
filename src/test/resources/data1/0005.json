@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.698338, 
+            "Longitude": -73.922728, 
+            "PostedDate": "1399851736", 
+            "PostingID": "4465562010", 
+            "PostingTitle": "Huge Room, Lots of Light, Chill Situation", 
+            "PostingURL": "/brk/sub/4465562010.html"
+        }, 
+        {
+            "Ask": "1100", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.698338, 
+            "Longitude": -73.922728, 
+            "PostedDate": "1399850719", 
+            "PostingID": "4453684107", 
+            "PostingTitle": "Bigger than your room at your parent's house!", 
+            "PostingURL": "/brk/sub/4453684107.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00404_lxEgjct0huP_50x50c.jpg", 
+            "Latitude": 40.698166, 
+            "Longitude": -73.9229, 
+            "PostedDate": "1399392791", 
+            "PostingID": "4457098260", 
+            "PostingTitle": "$750 Room in 3BR June to August", 
+            "PostingURL": "/brk/sub/4457098260.html"
+        }, 
+        {
+            "Ask": "1800", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "Latitude": 40.698796, 
+            "Longitude": -73.922327, 
+            "PostedDate": "1399227471", 
+            "PostingID": "4454006644", 
+            "PostingTitle": "Monthly sublet - May 15th-Nov 1st, flexible, utilities included", 
+            "PostingURL": "/brk/sub/4454006644.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6984097212676, 
+        "clng": -73.9226709491249, 
+        "clustered": 0, 
+        "geocoded": 4, 
+        "zoom": 20
+    }
+]

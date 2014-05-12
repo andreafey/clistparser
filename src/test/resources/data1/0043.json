@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00404_33mA4neZUyA_50x50c.jpg", 
+            "Latitude": 40.656684, 
+            "Longitude": -73.956475, 
+            "PostedDate": "1399679880", 
+            "PostingID": "4462827283", 
+            "PostingTitle": "June 1st*4 Trains*Includes utilities* By Prospect pk*Video tour!", 
+            "PostingURL": "/brk/sub/4462827283.html"
+        }, 
+        {
+            "Ask": "995", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00q0q_iPV0A6fijC7_50x50c.jpg", 
+            "Latitude": 40.656684, 
+            "Longitude": -73.956475, 
+            "PostedDate": "1399679037", 
+            "PostingID": "4462818803", 
+            "PostingTitle": "Travelers? New to NYC? 3-6 month! June 1st! See Video!", 
+            "PostingURL": "/brk/sub/4462818803.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6566840698394, 
+        "clng": -73.9564754590358, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 30
+    }
+]

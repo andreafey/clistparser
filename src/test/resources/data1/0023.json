@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "1650", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_fst2K9olD5J_50x50c.jpg", 
+            "Latitude": 40.620473, 
+            "Longitude": -73.923874, 
+            "PostedDate": "1399787677", 
+            "PostingID": "4464683958", 
+            "PostingTitle": "1 family fully renovated 4 BR, prime location", 
+            "PostingURL": "/brk/sub/4464683958.html"
+        }, 
+        {
+            "Ask": "1650", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_fst2K9olD5J_50x50c.jpg", 
+            "Latitude": 40.620473, 
+            "Longitude": -73.923874, 
+            "PostedDate": "1399787461", 
+            "PostingID": "4464682407", 
+            "PostingTitle": "1 family fully renovated 4 BR, prime location", 
+            "PostingURL": "/brk/sub/4464682407.html"
+        }, 
+        {
+            "Ask": "1650", 
+            "Bedrooms": "4", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01414_fst2K9olD5J_50x50c.jpg", 
+            "Latitude": 40.620473, 
+            "Longitude": -73.923874, 
+            "PostedDate": "1399787136", 
+            "PostingID": "4464679995", 
+            "PostingTitle": "1 family fully renovated 4 BR, prime location", 
+            "PostingURL": "/brk/sub/4464679995.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6204731371891, 
+        "clng": -73.9238741604947, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 32
+    }
+]

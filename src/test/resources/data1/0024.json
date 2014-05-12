@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "1300", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_gpSH2I4KbIU_50x50c.jpg", 
+            "Latitude": 40.689686, 
+            "Longitude": -73.966158, 
+            "PostedDate": "1399771748", 
+            "PostingID": "4454032399", 
+            "PostingTitle": "Fully Furnished Room Available Late May - Late August", 
+            "PostingURL": "/brk/sub/4454032399.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Z0Z_caCBXHVw8hx_50x50c.jpg", 
+            "Latitude": 40.689858, 
+            "Longitude": -73.966158, 
+            "PostedDate": "1399553285", 
+            "PostingID": "4460094982", 
+            "PostingTitle": "Room For Rent Clinton Hill / Fort Greene May 9 - June 9", 
+            "PostingURL": "/brk/sub/4460094982.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6897723825065, 
+        "clng": -73.966158445773, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 22
+    }
+]

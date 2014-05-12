@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00j0j_1mF54AYtYz5_50x50c.jpg", 
+            "Latitude": 40.71226, 
+            "Longitude": -73.957163, 
+            "PostedDate": "1399820466", 
+            "PostingID": "4455098138", 
+            "PostingTitle": "Room for Rent--Amazing Location & Amenities! Central AC & W/D in Apt! ", 
+            "PostingURL": "/brk/sub/4455098138.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00j0j_1mF54AYtYz5_50x50c.jpg", 
+            "Latitude": 40.71226, 
+            "Longitude": -73.957163, 
+            "PostedDate": "1399733709", 
+            "PostingID": "4463557699", 
+            "PostingTitle": "Room Available--Great Location! Washer/Dryer in Apt! ", 
+            "PostingURL": "/brk/sub/4463557699.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00T0T_lMOXE6jpq7p_50x50c.jpg", 
+            "Latitude": 40.71226, 
+            "Longitude": -73.957163, 
+            "PostedDate": "1399650360", 
+            "PostingID": "4462026937", 
+            "PostingTitle": "Room Available--Washer/Dryer in Apt! Great Location! Fun Apt!", 
+            "PostingURL": "/brk/sub/4462026937.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00j0j_1mF54AYtYz5_50x50c.jpg", 
+            "Latitude": 40.71226, 
+            "Longitude": -73.957163, 
+            "PostedDate": "1399588875", 
+            "PostingID": "4457679944", 
+            "PostingTitle": "Room for Rent--Awesome Location! Central AC & W/D in Apt! ", 
+            "PostingURL": "/brk/sub/4457679944.html"
+        }, 
+        {
+            "Ask": "1600", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00j0j_1mF54AYtYz5_50x50c.jpg", 
+            "Latitude": 40.71226, 
+            "Longitude": -73.957163, 
+            "PostedDate": "1399588841", 
+            "PostingID": "4461140906", 
+            "PostingTitle": "Room Available--Great Location! Washer/Dryer in Apt! ", 
+            "PostingURL": "/brk/sub/4461140906.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7122609759641, 
+        "clng": -73.95716300839, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

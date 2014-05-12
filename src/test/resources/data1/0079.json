@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_5X3QFLSTJ6F_50x50c.jpg", 
+            "Latitude": 40.650095, 
+            "Longitude": -73.949599, 
+            "PostedDate": "1399810528", 
+            "PostingID": "4464796599", 
+            "PostingTitle": "room for rent, convenient location", 
+            "PostingURL": "/brk/sub/4464796599.html"
+        }, 
+        {
+            "Ask": "1500", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_8JZk9NFNw38_50x50c.jpg", 
+            "Latitude": 40.650095, 
+            "Longitude": -73.949599, 
+            "PostedDate": "1399647112", 
+            "PostingID": "4461880893", 
+            "PostingTitle": "BEAUTIFULLY FURNISHED ONE BEDROOM APARTMENT", 
+            "PostingURL": "/brk/sub/4461880893.html"
+        }, 
+        {
+            "Ask": "1450", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00X0X_8JZk9NFNw38_50x50c.jpg", 
+            "Latitude": 40.650095, 
+            "Longitude": -73.949599, 
+            "PostedDate": "1399646517", 
+            "PostingID": "4461877672", 
+            "PostingTitle": "BEAUTIFULLY FURNISHED ONE BEDROOM APARTMENT", 
+            "PostingURL": "/brk/sub/4461877672.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_5X3QFLSTJ6F_50x50c.jpg", 
+            "Latitude": 40.650095, 
+            "Longitude": -73.949599, 
+            "PostedDate": "1399643197", 
+            "PostingID": "4461814435", 
+            "PostingTitle": "room for rent, convenient location", 
+            "PostingURL": "/brk/sub/4461814435.html"
+        }, 
+        {
+            "Ask": "875", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_5X3QFLSTJ6F_50x50c.jpg", 
+            "Latitude": 40.650095, 
+            "Longitude": -73.949599, 
+            "PostedDate": "1399555036", 
+            "PostingID": "4460162038", 
+            "PostingTitle": "room for rent, convenient location", 
+            "PostingURL": "/brk/sub/4460162038.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6500950551958, 
+        "clng": -73.9495999654946, 
+        "clustered": 0, 
+        "geocoded": 5, 
+        "zoom": 29
+    }
+]

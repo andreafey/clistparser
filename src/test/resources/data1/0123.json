@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "950", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_1KiRl7wTskY_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.931208, 
+            "PostedDate": "1399817742", 
+            "PostingID": "4464883530", 
+            "PostingTitle": "Affordable * Clean * Private Room * Bushwick", 
+            "PostingURL": "/brk/sub/4464883530.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_1KiRl7wTskY_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.931208, 
+            "PostedDate": "1399505245", 
+            "PostingID": "4459564608", 
+            "PostingTitle": "Affordable * Clean * Private Room * Bushwick", 
+            "PostingURL": "/brk/sub/4459564608.html"
+        }, 
+        {
+            "Ask": "950", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00B0B_1KiRl7wTskY_50x50c.jpg", 
+            "Latitude": 40.700458, 
+            "Longitude": -73.931208, 
+            "PostedDate": "1399383531", 
+            "PostingID": "4456815675", 
+            "PostingTitle": "Affordable * Clean * Private Room * Bushwick", 
+            "PostingURL": "/brk/sub/4456815675.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7004580453851, 
+        "clng": -73.9312080202719, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 33
+    }
+]

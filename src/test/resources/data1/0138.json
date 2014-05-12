@@ -1,0 +1,48 @@
+[
+    [
+        {
+            "Ask": "900", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01515_gvbmFnD7hkz_50x50c.jpg", 
+            "Latitude": 40.701775, 
+            "Longitude": -73.929947, 
+            "PostedDate": "1399484071", 
+            "PostingID": "4458962881", 
+            "PostingTitle": "1 BR in a 3 BR June 1-July 31, with backyard", 
+            "PostingURL": "/brk/sub/4458962881.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00k0k_hXBFsoHmEgM_50x50c.jpg", 
+            "Latitude": 40.702005, 
+            "Longitude": -73.929603, 
+            "PostedDate": "1399427276", 
+            "PostingID": "4458070715", 
+            "PostingTitle": "1 bedroom sublet - for June and July", 
+            "PostingURL": "/brk/sub/4458070715.html"
+        }, 
+        {
+            "Ask": "766", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.701775, 
+            "Longitude": -73.929947, 
+            "PostedDate": "1399321796", 
+            "PostingID": "4455883940", 
+            "PostingTitle": "SUMMER SUBLET off L Train! Large bedroom, spacious apartment!", 
+            "PostingURL": "/brk/sub/4455883940.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7018522426865, 
+        "clng": -73.9298329215637, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 21
+    }
+]

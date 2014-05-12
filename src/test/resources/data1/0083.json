@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "Ask": "3460", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00H0H_bQDWCILjuyM_50x50c.jpg", 
+            "Latitude": 40.693983, 
+            "Longitude": -73.990279, 
+            "PostedDate": "1399522782", 
+            "PostingID": "4448711983", 
+            "PostingTitle": "2 Months Left on AMAZING 1 Bedroom near EVERY major subway line", 
+            "PostingURL": "/brk/sub/4448711983.html"
+        }, 
+        {
+            "Ask": "2700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00Z0Z_8Er5S5n0mIH_50x50c.jpg", 
+            "Latitude": 40.693983, 
+            "Longitude": -73.990279, 
+            "PostedDate": "1399394029", 
+            "PostingID": "4457127585", 
+            "PostingTitle": "Downtown Brooklyn Luxury Listing", 
+            "PostingURL": "/brk/sub/4457127585.html"
+        }, 
+        {
+            "Ask": "2000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00y0y_5v6oBYSE1dH_50x50c.jpg", 
+            "Latitude": 40.693983, 
+            "Longitude": -73.990279, 
+            "PostedDate": "1399308348", 
+            "PostingID": "4455441689", 
+            "PostingTitle": "Cobble Hill/BK Heights One Bedroom and Bath for Rent/Sublet in Share", 
+            "PostingURL": "/brk/sub/4455441689.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6939836223004, 
+        "clng": -73.9902799689468, 
+        "clustered": 0, 
+        "geocoded": 3, 
+        "zoom": 29
+    }
+]

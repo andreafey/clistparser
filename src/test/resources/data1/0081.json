@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "Ask": "965", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00505_6oargTlewPX_50x50c.jpg", 
+            "Latitude": 40.694556, 
+            "Longitude": -73.90657, 
+            "PostedDate": "1399820758", 
+            "PostingID": "4464940013", 
+            "PostingTitle": "*$965.00* 1br sublet - Includes Utilities Furnished Sunny Bedrm 1 Bloc", 
+            "PostingURL": "/brk/sub/4464940013.html"
+        }, 
+        {
+            "Ask": "775", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00G0G_ch6GhiGTAHH_50x50c.jpg", 
+            "Latitude": 40.694556, 
+            "Longitude": -73.90657, 
+            "PostedDate": "1399526838", 
+            "PostingID": "4459947590", 
+            "PostingTitle": "Bushwick Room Available 5/22-8/31", 
+            "PostingURL": "/brk/sub/4459947590.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6945565800955, 
+        "clng": -73.9065708350826, 
+        "clustered": 0, 
+        "geocoded": 2, 
+        "zoom": 29
+    }
+]
