@@ -5,7 +5,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.List;
 import java.util.Scanner;
-import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executor;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,9 +14,9 @@ public class CraigslistFetcher implements Runnable {
     private final String baseUrl;
     private final URL url;
     private final List<String> listingIds;
-    private final ExecutorService executor;
+    private final Executor executor;
     
-    public CraigslistFetcher(String baseUrl, String url, List<String> listings, ExecutorService executor) 
+    public CraigslistFetcher(String baseUrl, String url, List<String> listings, Executor executor) 
             throws MalformedURLException {
         this.baseUrl = baseUrl;
         this.url = new URL(baseUrl + url);
