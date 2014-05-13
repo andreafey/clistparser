@@ -1,0 +1,133 @@
+[
+    [
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00C0C_a2BQxlAdINL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399860936", 
+            "PostingID": "4451612159", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY  1ST", 
+            "PostingURL": "/brk/sub/4451612159.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00C0C_a2BQxlAdINL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399847003", 
+            "PostingID": "4452117321", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY 1ST", 
+            "PostingURL": "/brk/sub/4452117321.html"
+        }, 
+        {
+            "Ask": "2350", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00g0g_8tcLjMHOyoE_50x50c.jpg", 
+            "Latitude": 40.719308, 
+            "Longitude": -73.957048, 
+            "PostedDate": "1399829706", 
+            "PostingID": "4465127944", 
+            "PostingTitle": "AMAZING PRIVATE FURNISHED ROOM!! JUST FOR YOU!! STEP OFF THE BEDFORD L", 
+            "PostingURL": "/brk/sub/4465127944.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_1fpD71VFmLL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399825488", 
+            "PostingID": "4454390650", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY ", 
+            "PostingURL": "/brk/sub/4454390650.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_1fpD71VFmLL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399812629", 
+            "PostingID": "4454388744", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY ", 
+            "PostingURL": "/brk/sub/4454388744.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_1fpD71VFmLL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399757024", 
+            "PostingID": "4453981529", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE  FOR MAY ", 
+            "PostingURL": "/brk/sub/4453981529.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01010_1fpD71VFmLL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399738677", 
+            "PostingID": "4455061574", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY ", 
+            "PostingURL": "/brk/sub/4455061574.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00C0C_a2BQxlAdINL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399721219", 
+            "PostingID": "4453099425", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY ", 
+            "PostingURL": "/brk/sub/4453099425.html"
+        }, 
+        {
+            "Ask": "1400", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00C0C_a2BQxlAdINL_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399670906", 
+            "PostingID": "4451759162", 
+            "PostingTitle": "ONE BEDROOM AND HOME OFFICE FOR MAY ", 
+            "PostingURL": "/brk/sub/4451759162.html"
+        }, 
+        {
+            "Ask": "2950", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01616_fiTur4RfopH_50x50c.jpg", 
+            "Latitude": 40.719766, 
+            "Longitude": -73.957793, 
+            "PostedDate": "1399569295", 
+            "PostingID": "4460572772", 
+            "PostingTitle": "GORGEOUS ONE BR IN HEART OF WILLIAMSBURG!", 
+            "PostingURL": "/brk/sub/4460572772.html"
+        }
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.7197208864563, 
+        "clng": -73.9577187774512, 
+        "clustered": 0, 
+        "geocoded": 10, 
+        "zoom": 23
+    }
+]

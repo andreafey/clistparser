@@ -1,0 +1,171 @@
+[
+    [
+        {
+            "Ask": "1000", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00d0d_e16LtsMbHxl_50x50c.jpg", 
+            "Latitude": 40.721199, 
+            "Longitude": -73.946792, 
+            "PostedDate": "1399865100", 
+            "PostingID": "4465819900", 
+            "PostingTitle": "Greenpoint Bedroom Available for June", 
+            "PostingURL": "/brk/sub/4465819900.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "0", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00H0H_1dlvtwdDobj_50x50c.jpg", 
+            "Latitude": 40.670148, 
+            "Longitude": -73.955272, 
+            "PostedDate": "1399864834", 
+            "PostingID": "4465805637", 
+            "PostingTitle": "3 Month Sublet! Sunny Bright Beautiful Home, near 2/3/4/5 trains", 
+            "PostingURL": "/brk/sub/4465805637.html"
+        }, 
+        {
+            "Ask": "925", 
+            "Bedrooms": "2", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00N0N_jsC8AZyMIxG_50x50c.jpg", 
+            "Latitude": 41.947214, 
+            "Longitude": -72.279084, 
+            "PostedDate": "1399862210", 
+            "PostingID": "4465775528", 
+            "PostingTitle": "Open House...You Know You Want To Look", 
+            "PostingURL": "/brk/sub/4465775528.html"
+        }, 
+        {
+            "GeoCluster": "113006608270", 
+            "Latitude": 40.6873373118773, 
+            "Longitude": -73.9798521370759, 
+            "NumPosts": "2", 
+            "PostedDate": "1399861885", 
+            "PostingID": "4465767209", 
+            "url": "/0001.json"
+        }, 
+        {
+            "Ask": "530", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00505_ekrwQ5CDwwT_50x50c.jpg", 
+            "Latitude": 40.691863, 
+            "Longitude": -73.947709, 
+            "PostedDate": "1399861394", 
+            "PostingID": "4465761796", 
+            "PostingTitle": "Room for rent May 27-June 13 ", 
+            "PostingURL": "/brk/sub/4465761796.html"
+        }, 
+        {
+            "GeoCluster": "113006701492", 
+            "Latitude": 40.7197667230799, 
+            "Longitude": -73.9577932619646, 
+            "NumPosts": "10", 
+            "PostedDate": "1399860936", 
+            "PostingID": "4465127944", 
+            "url": "/0002.json"
+        }, 
+        {
+            "Ask": "1200", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00A0A_i71OyGJ7X1b_50x50c.jpg", 
+            "Latitude": 40.632218, 
+            "Longitude": -74.030616, 
+            "PostedDate": "1399860455", 
+            "PostingID": "4465740031", 
+            "PostingTitle": "Great Apartment, July/August", 
+            "PostingURL": "/brk/sub/4465740031.html"
+        }, 
+        {
+            "Ask": "3500", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00K0K_8EQ3AjBWBUC_50x50c.jpg", 
+            "Latitude": 40.715927, 
+            "Longitude": -73.959684, 
+            "PostedDate": "1399859295", 
+            "PostingID": "4465679299", 
+            "PostingTitle": "Long Term Sublet . Rare Loft . Jun 1 or July 1", 
+            "PostingURL": "/brk/sub/4465679299.html"
+        }, 
+        {
+            "GeoCluster": "113006604010", 
+            "Latitude": 40.6415579840488, 
+            "Longitude": -73.9997910683454, 
+            "NumPosts": "2", 
+            "PostedDate": "1399859730", 
+            "PostingID": "4465732367", 
+            "url": "/0003.json"
+        }, 
+        {
+            "Ask": "1700", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01111_gdKLcIM0r1k_50x50c.jpg", 
+            "Latitude": 40.664934, 
+            "Longitude": -73.993373, 
+            "PostedDate": "1399858908", 
+            "PostingID": "4465717334", 
+            "PostingTitle": "1 BR in Park Slope/Gowanus", 
+            "PostingURL": "/brk/sub/4465717334.html"
+        }, 
+        {
+            "Ask": "1000", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00606_2e4tioh9Ei_50x50c.jpg", 
+            "Latitude": 40.704812, 
+            "Longitude": -73.924561, 
+            "PostedDate": "1399858117", 
+            "PostingID": "4465702822", 
+            "PostingTitle": "$1000 1 BD in a 3 BD Apt", 
+            "PostingURL": "/brk/sub/4465702822.html"
+        }, 
+        {
+            "Ask": "0", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "Latitude": 40.684472, 
+            "Longitude": -73.959111, 
+            "PostedDate": "1399858102", 
+            "PostingID": "4465683922", 
+            "PostingTitle": "$900 1 large bedroom & 1 bathroom with Bckyard June 1st - July 1st", 
+            "PostingURL": "/brk/sub/4465683922.html"
+        }, 
+       {
+            "Ask": "920", 
+            "Bedrooms": "1", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/01111_78YaB7CGFUs_50x50c.jpg", 
+            "Latitude": 40.68367, 
+            "Longitude": -73.978534, 
+            "PostedDate": "1399856812", 
+            "PostingID": "4465678789", 
+            "PostingTitle": "1BR in 3BR/1.5BA for 08/10-08/30 (next to 8 subway lines, Manh-1 stop)", 
+            "PostingURL": "/brk/sub/4465678789.html"
+        }, 
+        {
+            "Ask": "800", 
+            "Bedrooms": "3", 
+            "CategoryID": "39", 
+            "ImageThumb": "http://images.craigslist.org/00w0w_9Qdr1lPVaqb_50x50c.jpg", 
+            "Latitude": 40.674445, 
+            "Longitude": -73.965012, 
+            "PostedDate": "1399853191", 
+            "PostingID": "4450619086", 
+            "PostingTitle": "$800 June 1 st sublet one month 1BR  in True 3BR Apt", 
+            "PostingURL": "/brk/sub/4450619086.html"
+        }, 
+    ], 
+    {
+        "NonGeocoded": 0, 
+        "baseurl": "//newyork.craigslist.org", 
+        "clat": 40.6790660895438, 
+        "clng": -74.0171550227819, 
+        "clustered": 177, 
+        "geocoded": 459, 
+        "zoom": 12
+    }
+]

@@ -1,21 +1,40 @@
 package parser;
 
-import java.nio.charset.StandardCharsets;
 import java.io.IOException;
-import java.nio.file.Paths;
-import java.nio.file.Files;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.List;
+import java.util.Scanner;
+import java.util.concurrent.ExecutorService;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-public class ExampleParser {
-
-    public static String readFile(String path) throws IOException {
-        byte[] encoded = Files.readAllBytes(Paths.get(path));
-        return new String(encoded, StandardCharsets.UTF_8);
+public class CraigslistFetcher implements Runnable {
+    private final String baseUrl;
+    private final URL url;
+    private final List<String> listingIds;
+    private final ExecutorService executor;
+    
+    public CraigslistFetcher(String baseUrl, String url, List<String> listings, ExecutorService executor) 
+            throws MalformedURLException {
+        this.baseUrl = baseUrl;
+        this.url = new URL(baseUrl + url);
+        this.listingIds = listings;
+        this.executor = executor;
     }
-
-    public static void processJSONResponse(String jsonString) {
+    private void processUrl(URL url) {
+        try {
+            Scanner scanner = new Scanner(url.openStream(), "UTF-8");
+            String contents = scanner.useDelimiter("\\A").next();
+            scanner.close();
+            processResponse(contents);
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } 
+    }
+    private void processResponse(String jsonString) {
         // Note that Craigslist JSON responses, as far as I can tell, take the following form:
         // [
         //     [
@@ -58,23 +77,25 @@ public class ExampleParser {
             JSONObject listing = listings.getJSONObject(i);
             if (listing.has("GeoCluster")) {
                 // this one is a cluster
-                String url = "http://newyork.craigslist.org" + listing.getString("url");
-                //
-                // TODO: initiate a request for `url` here
-                //
+                String url = listing.getString("url");
+                try {
+                    executor.execute(new CraigslistFetcher(baseUrl, url, listingIds, executor));
+//                    processUrl(new URL(url));
+                } catch (MalformedURLException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
             } else {
                 // this one is an individual listing
                 String postingID = listing.getString("PostingID");
-                //
-                // TODO: add this listing's PostingID to our master list of postings
-                //
+                this.listingIds.add(postingID);
             }
         }
     }
 
-    public static void main(String[] args) throws Exception {
-        String jsonString = readFile("sample.json");
-        processJSONResponse(jsonString);
+    @Override
+    public void run() {
+        processUrl(url);
     }
 
 }

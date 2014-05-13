@@ -37,7 +37,7 @@ public class UrlParser {
         while (urls.size() > 0 || responses.size() > 0) {
             while (urls.size() > 0) {
                 String u = urls.remove();
-                Runnable r = new UrlRunner(u, this);
+                Runnable r = new CraigslistFetcher(u, this);
                 executor.execute(r);
             }
             while (responses.size() > 0) {
